@@ -73,7 +73,7 @@ entry(
         E = 0,
         L = 1.615,
         A = 0,
-        V = 0.6722,
+        V = 0.67220,
     ),
     shortDesc = u"""""",
     longDesc = 
