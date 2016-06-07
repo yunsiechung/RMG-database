@@ -9,12 +9,7 @@ longDesc = u"""
 entry(
     index = 1,
     label = "water",
-    molecule =
-"""
-1 O u0 p2 c0 {2,S} {3,S}
-2 H u0 p0 c0 {1,S}
-3 H u0 p0 c0 {1,S}
-""",
+    molecule = "O",
     solvent = SolventData(
         s_g = 2.743,
         b_g = 4.814,
@@ -47,36 +42,7 @@ u"""
 entry(
     index = 2,
     label = "1-octanol",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {10,S} {11,S} {12,S}
-2  C u0 p0 c0 {1,S} {3,S} {13,S} {14,S}
-3  C u0 p0 c0 {2,S} {4,S} {15,S} {16,S}
-4  C u0 p0 c0 {3,S} {5,S} {17,S} {18,S}
-5  C u0 p0 c0 {4,S} {6,S} {19,S} {20,S}
-6  C u0 p0 c0 {5,S} {7,S} {21,S} {22,S}
-7  C u0 p0 c0 {6,S} {8,S} {23,S} {24,S}
-8  C u0 p0 c0 {7,S} {9,S} {25,S} {26,S}
-9  O u0 p2 c0 {8,S} {27,S}
-10 H u0 p0 c0 {1,S}
-11 H u0 p0 c0 {1,S}
-12 H u0 p0 c0 {1,S}
-13 H u0 p0 c0 {2,S}
-14 H u0 p0 c0 {2,S}
-15 H u0 p0 c0 {3,S}
-16 H u0 p0 c0 {3,S}
-17 H u0 p0 c0 {4,S}
-18 H u0 p0 c0 {4,S}
-19 H u0 p0 c0 {5,S}
-20 H u0 p0 c0 {5,S}
-21 H u0 p0 c0 {6,S}
-22 H u0 p0 c0 {6,S}
-23 H u0 p0 c0 {7,S}
-24 H u0 p0 c0 {7,S}
-25 H u0 p0 c0 {8,S}
-26 H u0 p0 c0 {8,S}
-27 H u0 p0 c0 {9,S}
-""",
+    molecule = "CCCCCCCCO",
     solvent = SolventData(
         s_g = 0.56,
         b_g = 0.702,
@@ -110,21 +76,7 @@ beta = 0.45, #primary alcohols,
 entry(
     index = 3,
     label = "benzene",
-    molecule =
-"""
-1  C u0 p0 c0 {2,D} {6,S} {7,S}
-2  C u0 p0 c0 {1,D} {3,S} {8,S}
-3  C u0 p0 c0 {2,S} {4,D} {9,S}
-4  C u0 p0 c0 {3,D} {5,S} {10,S}
-5  C u0 p0 c0 {4,S} {6,D} {11,S}
-6  C u0 p0 c0 {1,S} {5,D} {12,S}
-7  H u0 p0 c0 {1,S}
-8  H u0 p0 c0 {2,S}
-9  H u0 p0 c0 {3,S}
-10 H u0 p0 c0 {4,S}
-11 H u0 p0 c0 {5,S}
-12 H u0 p0 c0 {6,S}
-""",
+    molecule = "C1=CC=CC=C1",
     solvent = SolventData(
         s_g = 1.053,
         b_g = 0.169,
@@ -157,27 +109,7 @@ u"""
 entry(
     index = 4,
     label = "cyclohexane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {6,S} {7,S} {8,S}
-2  C u0 p0 c0 {1,S} {3,S} {9,S} {10,S}
-3  C u0 p0 c0 {2,S} {4,S} {11,S} {12,S}
-4  C u0 p0 c0 {3,S} {5,S} {13,S} {14,S}
-5  C u0 p0 c0 {4,S} {6,S} {15,S} {16,S}
-6  C u0 p0 c0 {1,S} {5,S} {17,S} {18,S}
-7  H u0 p0 c0 {1,S}
-8  H u0 p0 c0 {1,S}
-9  H u0 p0 c0 {2,S}
-10 H u0 p0 c0 {2,S}
-11 H u0 p0 c0 {3,S}
-12 H u0 p0 c0 {3,S}
-13 H u0 p0 c0 {4,S}
-14 H u0 p0 c0 {4,S}
-15 H u0 p0 c0 {5,S}
-16 H u0 p0 c0 {5,S}
-17 H u0 p0 c0 {6,S}
-18 H u0 p0 c0 {6,S}
-""",
+    molecule = "C1CCCCC1",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -210,36 +142,7 @@ u"""
 entry(
     index = 5,
     label = "dibutylether",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {10,S} {11,S} {12,S}
-2  C u0 p0 c0 {1,S} {3,S} {13,S} {14,S}
-3  C u0 p0 c0 {2,S} {4,S} {15,S} {16,S}
-4  C u0 p0 c0 {3,S} {5,S} {17,S} {18,S}
-5  O u0 p2 c0 {4,S} {6,S}
-6  C u0 p0 c0 {5,S} {7,S} {19,S} {20,S}
-7  C u0 p0 c0 {6,S} {8,S} {21,S} {22,S}
-8  C u0 p0 c0 {7,S} {9,S} {23,S} {24,S}
-9  C u0 p0 c0 {8,S} {25,S} {26,S} {27,S}
-10 H u0 p0 c0 {1,S}
-11 H u0 p0 c0 {1,S}
-12 H u0 p0 c0 {1,S}
-13 H u0 p0 c0 {2,S}
-14 H u0 p0 c0 {2,S}
-15 H u0 p0 c0 {3,S}
-16 H u0 p0 c0 {3,S}
-17 H u0 p0 c0 {4,S}
-18 H u0 p0 c0 {4,S}
-19 H u0 p0 c0 {6,S}
-20 H u0 p0 c0 {6,S}
-21 H u0 p0 c0 {7,S}
-22 H u0 p0 c0 {7,S}
-23 H u0 p0 c0 {8,S}
-24 H u0 p0 c0 {8,S}
-25 H u0 p0 c0 {9,S}
-26 H u0 p0 c0 {9,S}
-27 H u0 p0 c0 {9,S}
-""",
+    molecule = "CCCCOCCCC",
     solvent = SolventData(
         s_g = 0.026,
         b_g = -0.499,
@@ -272,35 +175,7 @@ u"""
 entry(
     index = 6,
     label = "octane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {9,S} {10,S} {11,S}
-2  C u0 p0 c0 {1,S} {3,S} {12,S} {13,S}
-3  C u0 p0 c0 {2,S} {4,S} {14,S} {15,S}
-4  C u0 p0 c0 {3,S} {5,S} {16,S} {17,S}
-5  C u0 p0 c0 {4,S} {6,S} {18,S} {19,S}
-6  C u0 p0 c0 {5,S} {7,S} {20,S} {21,S}
-7  C u0 p0 c0 {6,S} {8,S} {22,S} {23,S}
-8  C u0 p0 c0 {7,S} {24,S} {25,S} {26,S}
-9  H u0 p0 c0 {1,S}
-10 H u0 p0 c0 {1,S}
-11 H u0 p0 c0 {1,S}
-12 H u0 p0 c0 {2,S}
-13 H u0 p0 c0 {2,S}
-14 H u0 p0 c0 {3,S}
-15 H u0 p0 c0 {3,S}
-16 H u0 p0 c0 {4,S}
-17 H u0 p0 c0 {4,S}
-18 H u0 p0 c0 {5,S}
-19 H u0 p0 c0 {5,S}
-20 H u0 p0 c0 {6,S}
-21 H u0 p0 c0 {6,S}
-22 H u0 p0 c0 {7,S}
-23 H u0 p0 c0 {7,S}
-24 H u0 p0 c0 {8,S}
-25 H u0 p0 c0 {8,S}
-26 H u0 p0 c0 {8,S}
-""",
+    molecule = "CCCCCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -333,24 +208,7 @@ u"""
 entry(
     index = 7,
     label = "butanol",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {6,S} {7,S} {8,S}
-2  C u0 p0 c0 {1,S} {3,S} {9,S} {10,S}
-3  C u0 p0 c0 {2,S} {4,S} {11,S} {12,S}
-4  C u0 p0 c0 {3,S} {5,S} {13,S} {14,S}
-5  O u0 p2 c0 {4,S} {15,S}
-6  H u0 p0 c0 {1,S}
-7  H u0 p0 c0 {1,S}
-8  H u0 p0 c0 {1,S}
-9  H u0 p0 c0 {2,S}
-10 H u0 p0 c0 {2,S}
-11 H u0 p0 c0 {3,S}
-12 H u0 p0 c0 {3,S}
-13 H u0 p0 c0 {4,S}
-14 H u0 p0 c0 {4,S}
-15 H u0 p0 c0 {5,S}
-""",
+    molecule = "CCCCO",
     solvent = SolventData(
         s_g = 0.539,
         b_g = 0.995,
@@ -383,14 +241,7 @@ u"""
 entry(
     index = 8,
     label = "carbontet",
-    molecule =
-"""
-1 Cl u0 p3 c0 {2,S}
-2 C  u0 p0 c0 {1,S} {3,S} {4,S} {5,S}
-3 Cl u0 p3 c0 {2,S}
-4 Cl u0 p3 c0 {2,S}
-5 Cl u0 p3 c0 {2,S}
-""",
+    molecule = "ClC(Cl)(Cl)Cl",
     solvent = SolventData(
         s_g = 0.46,
         b_g = 0,
@@ -423,14 +274,7 @@ beta = 0.05, # Note 24 in Snelgrove et al. 2001
 entry(
     index = 9,
     label = "chloroform",
-    molecule =
-"""
-1 Cl u0 p3 c0 {2,S}
-2 C  u0 p0 c0 {1,S} {3,S} {4,S} {5,S}
-3 Cl u0 p3 c0 {2,S}
-4 Cl u0 p3 c0 {2,S}
-5 H  u0 p0 c0 {2,S}
-""",
+    molecule = "ClC(Cl)Cl",
     solvent = SolventData(
         s_g = 1.256,
         b_g = 1.37,
@@ -463,41 +307,7 @@ u"""
 entry(
     index = 10,
     label = "decane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {11,S} {12,S} {13,S}
-2  C u0 p0 c0 {1,S} {3,S} {14,S} {15,S}
-3  C u0 p0 c0 {2,S} {4,S} {16,S} {17,S}
-4  C u0 p0 c0 {3,S} {5,S} {18,S} {19,S}
-5  C u0 p0 c0 {4,S} {6,S} {20,S} {21,S}
-6  C u0 p0 c0 {5,S} {7,S} {22,S} {23,S}
-7  C u0 p0 c0 {6,S} {8,S} {24,S} {25,S}
-8  C u0 p0 c0 {7,S} {9,S} {26,S} {27,S}
-9  C u0 p0 c0 {8,S} {10,S} {28,S} {29,S}
-10 C u0 p0 c0 {9,S} {30,S} {31,S} {32,S}
-11 H u0 p0 c0 {1,S}
-12 H u0 p0 c0 {1,S}
-13 H u0 p0 c0 {1,S}
-14 H u0 p0 c0 {2,S}
-15 H u0 p0 c0 {2,S}
-16 H u0 p0 c0 {3,S}
-17 H u0 p0 c0 {3,S}
-18 H u0 p0 c0 {4,S}
-19 H u0 p0 c0 {4,S}
-20 H u0 p0 c0 {5,S}
-21 H u0 p0 c0 {5,S}
-22 H u0 p0 c0 {6,S}
-23 H u0 p0 c0 {6,S}
-24 H u0 p0 c0 {7,S}
-25 H u0 p0 c0 {7,S}
-26 H u0 p0 c0 {8,S}
-27 H u0 p0 c0 {8,S}
-28 H u0 p0 c0 {9,S}
-29 H u0 p0 c0 {9,S}
-30 H u0 p0 c0 {10,S}
-31 H u0 p0 c0 {10,S}
-32 H u0 p0 c0 {10,S}
-""",
+    molecule = "CCCCCCCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -530,17 +340,7 @@ u"""
 entry(
     index = 11,
     label = "dichloroethane",
-    molecule =
-"""
-1 C  u0 p0 c0 {2,S} {5,S} {6,S} {7,S}
-2 C  u0 p0 c0 {1,S} {3,S} {4,S} {8,S}
-3 Cl u0 p3 c0 {2,S}
-4 Cl u0 p3 c0 {2,S}
-5 H  u0 p0 c0 {1,S}
-6 H  u0 p0 c0 {1,S}
-7 H  u0 p0 c0 {1,S}
-8 H  u0 p0 c0 {2,S}
-""",
+    molecule = "CC(Cl)Cl",
     solvent = SolventData(
         s_g = 1.436,
         b_g = 0.736,
@@ -573,21 +373,7 @@ u"""
 entry(
     index = 12,
     label = "dimethylformamide",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {6,S} {7,S} {8,S}
-2  N u0 p1 c0 {1,S} {3,S} {4,S}
-3  C u0 p0 c0 {2,S} {9,S} {10,S} {11,S}
-4  C u0 p0 c0 {2,S} {5,D} {12,S}
-5  O u0 p2 c0 {4,D}
-6  H u0 p0 c0 {1,S}
-7  H u0 p0 c0 {1,S}
-8  H u0 p0 c0 {1,S}
-9  H u0 p0 c0 {3,S}
-10 H u0 p0 c0 {3,S}
-11 H u0 p0 c0 {3,S}
-12 H u0 p0 c0 {4,S}
-""",
+    molecule = "N(C)(C)C=O",
     solvent = SolventData(
         s_g = 2.315,
         b_g = 0,
@@ -620,19 +406,7 @@ u"""
 entry(
     index = 13,
     label = "dimethylsulfoxide",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {5,S} {6,S} {7,S}
-2  S u0 p0 c0 {1,S} {3,S} {4,D}
-3  C u0 p0 c0 {2,S} {8,S} {9,S} {10,S}
-4  O u0 p2 c0 {2,D}
-5  H u0 p0 c0 {1,S}
-6  H u0 p0 c0 {1,S}
-7  H u0 p0 c0 {1,S}
-8  H u0 p0 c0 {3,S}
-9  H u0 p0 c0 {3,S}
-10 H u0 p0 c0 {3,S}
-""",
+    molecule = "CS(C)=O",
     solvent = SolventData(
         s_g = 2.89,
         b_g = 0,
@@ -666,9 +440,7 @@ adjacency list with the solvent name or its correct SMILES representation
 entry(
     index = 14,
     label = "dodecane",
-    molecule =
-"""
-""",
+    molecule = "CCCCCCCCCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -701,18 +473,7 @@ u"""
 entry(
     index = 15,
     label = "ethanol",
-    molecule =
-"""
-1 C u0 p0 c0 {2,S} {4,S} {5,S} {6,S}
-2 C u0 p0 c0 {1,S} {3,S} {7,S} {8,S}
-3 O u0 p2 c0 {2,S} {9,S}
-4 H u0 p0 c0 {1,S}
-5 H u0 p0 c0 {1,S}
-6 H u0 p0 c0 {1,S}
-7 H u0 p0 c0 {2,S}
-8 H u0 p0 c0 {2,S}
-9 H u0 p0 c0 {3,S}
-""",
+    molecule = "CCO",
     solvent = SolventData(
         s_g = 0.789,
         b_g = 1.311,
@@ -745,32 +506,7 @@ u"""
 entry(
     index = 16,
     label = "heptane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {8,S} {9,S} {10,S}
-2  C u0 p0 c0 {1,S} {3,S} {11,S} {12,S}
-3  C u0 p0 c0 {2,S} {4,S} {13,S} {14,S}
-4  C u0 p0 c0 {3,S} {5,S} {15,S} {16,S}
-5  C u0 p0 c0 {4,S} {6,S} {17,S} {18,S}
-6  C u0 p0 c0 {5,S} {7,S} {19,S} {20,S}
-7  C u0 p0 c0 {6,S} {21,S} {22,S} {23,S}
-8  H u0 p0 c0 {1,S}
-9  H u0 p0 c0 {1,S}
-10 H u0 p0 c0 {1,S}
-11 H u0 p0 c0 {2,S}
-12 H u0 p0 c0 {2,S}
-13 H u0 p0 c0 {3,S}
-14 H u0 p0 c0 {3,S}
-15 H u0 p0 c0 {4,S}
-16 H u0 p0 c0 {4,S}
-17 H u0 p0 c0 {5,S}
-18 H u0 p0 c0 {5,S}
-19 H u0 p0 c0 {6,S}
-20 H u0 p0 c0 {6,S}
-21 H u0 p0 c0 {7,S}
-22 H u0 p0 c0 {7,S}
-23 H u0 p0 c0 {7,S}
-""",
+    molecule = "CCCCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -803,59 +539,7 @@ u"""
 entry(
     index = 17,
     label = "hexadecane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {17,S} {18,S} {19,S}
-2  C u0 p0 c0 {1,S} {3,S} {20,S} {21,S}
-3  C u0 p0 c0 {2,S} {4,S} {22,S} {23,S}
-4  C u0 p0 c0 {3,S} {5,S} {24,S} {25,S}
-5  C u0 p0 c0 {4,S} {6,S} {26,S} {27,S}
-6  C u0 p0 c0 {5,S} {7,S} {28,S} {29,S}
-7  C u0 p0 c0 {6,S} {8,S} {30,S} {31,S}
-8  C u0 p0 c0 {7,S} {9,S} {32,S} {33,S}
-9  C u0 p0 c0 {8,S} {10,S} {34,S} {35,S}
-10 C u0 p0 c0 {9,S} {11,S} {36,S} {37,S}
-11 C u0 p0 c0 {10,S} {12,S} {38,S} {39,S}
-12 C u0 p0 c0 {11,S} {13,S} {40,S} {41,S}
-13 C u0 p0 c0 {12,S} {14,S} {42,S} {43,S}
-14 C u0 p0 c0 {13,S} {15,S} {44,S} {45,S}
-15 C u0 p0 c0 {14,S} {16,S} {46,S} {47,S}
-16 C u0 p0 c0 {15,S} {48,S} {49,S} {50,S}
-17 H u0 p0 c0 {1,S}
-18 H u0 p0 c0 {1,S}
-19 H u0 p0 c0 {1,S}
-20 H u0 p0 c0 {2,S}
-21 H u0 p0 c0 {2,S}
-22 H u0 p0 c0 {3,S}
-23 H u0 p0 c0 {3,S}
-24 H u0 p0 c0 {4,S}
-25 H u0 p0 c0 {4,S}
-26 H u0 p0 c0 {5,S}
-27 H u0 p0 c0 {5,S}
-28 H u0 p0 c0 {6,S}
-29 H u0 p0 c0 {6,S}
-30 H u0 p0 c0 {7,S}
-31 H u0 p0 c0 {7,S}
-32 H u0 p0 c0 {8,S}
-33 H u0 p0 c0 {8,S}
-34 H u0 p0 c0 {9,S}
-35 H u0 p0 c0 {9,S}
-36 H u0 p0 c0 {10,S}
-37 H u0 p0 c0 {10,S}
-38 H u0 p0 c0 {11,S}
-39 H u0 p0 c0 {11,S}
-40 H u0 p0 c0 {12,S}
-41 H u0 p0 c0 {12,S}
-42 H u0 p0 c0 {13,S}
-43 H u0 p0 c0 {13,S}
-44 H u0 p0 c0 {14,S}
-45 H u0 p0 c0 {14,S}
-46 H u0 p0 c0 {15,S}
-47 H u0 p0 c0 {15,S}
-48 H u0 p0 c0 {16,S}
-49 H u0 p0 c0 {16,S}
-50 H u0 p0 c0 {16,S}
-""",
+    molecule = "CCCCCCCCCCCCCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -888,29 +572,7 @@ u"""
 entry(
     index = 18,
     label = "hexane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {7,S} {8,S} {9,S}
-2  C u0 p0 c0 {1,S} {3,S} {10,S} {11,S}
-3  C u0 p0 c0 {2,S} {4,S} {12,S} {13,S}
-4  C u0 p0 c0 {3,S} {5,S} {14,S} {15,S}
-5  C u0 p0 c0 {4,S} {6,S} {16,S} {17,S}
-6  C u0 p0 c0 {5,S} {18,S} {19,S} {20,S}
-7  H u0 p0 c0 {1,S}
-8  H u0 p0 c0 {1,S}
-9  H u0 p0 c0 {1,S}
-10 H u0 p0 c0 {2,S}
-11 H u0 p0 c0 {2,S}
-12 H u0 p0 c0 {3,S}
-13 H u0 p0 c0 {3,S}
-14 H u0 p0 c0 {4,S}
-15 H u0 p0 c0 {4,S}
-16 H u0 p0 c0 {5,S}
-17 H u0 p0 c0 {5,S}
-18 H u0 p0 c0 {6,S}
-19 H u0 p0 c0 {6,S}
-20 H u0 p0 c0 {6,S}
-""",
+    molecule = "CCCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -943,35 +605,7 @@ u"""
 entry(
     index = 19,
     label = "isooctane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {9,S} {10,S} {11,S}
-2  C u0 p0 c0 {1,S} {3,S} {4,S} {12,S}
-3  C u0 p0 c0 {2,S} {13,S} {14,S} {15,S}
-4  C u0 p0 c0 {2,S} {5,S} {16,S} {17,S}
-5  C u0 p0 c0 {4,S} {6,S} {7,S} {8,S}
-6  C u0 p0 c0 {5,S} {18,S} {19,S} {20,S}
-7  C u0 p0 c0 {5,S} {21,S} {22,S} {23,S}
-8  C u0 p0 c0 {5,S} {24,S} {25,S} {26,S}
-9  H u0 p0 c0 {1,S}
-10 H u0 p0 c0 {1,S}
-11 H u0 p0 c0 {1,S}
-12 H u0 p0 c0 {2,S}
-13 H u0 p0 c0 {3,S}
-14 H u0 p0 c0 {3,S}
-15 H u0 p0 c0 {3,S}
-16 H u0 p0 c0 {4,S}
-17 H u0 p0 c0 {4,S}
-18 H u0 p0 c0 {6,S}
-19 H u0 p0 c0 {6,S}
-20 H u0 p0 c0 {6,S}
-21 H u0 p0 c0 {7,S}
-22 H u0 p0 c0 {7,S}
-23 H u0 p0 c0 {7,S}
-24 H u0 p0 c0 {8,S}
-25 H u0 p0 c0 {8,S}
-26 H u0 p0 c0 {8,S}
-""",
+    molecule = "CC(C)CC(C)(C)C",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -1004,38 +638,7 @@ u"""
 entry(
     index = 20,
     label = "nonane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {10,S} {11,S} {12,S}
-2  C u0 p0 c0 {1,S} {3,S} {13,S} {14,S}
-3  C u0 p0 c0 {2,S} {4,S} {15,S} {16,S}
-4  C u0 p0 c0 {3,S} {5,S} {17,S} {18,S}
-5  C u0 p0 c0 {4,S} {6,S} {19,S} {20,S}
-6  C u0 p0 c0 {5,S} {7,S} {21,S} {22,S}
-7  C u0 p0 c0 {6,S} {8,S} {23,S} {24,S}
-8  C u0 p0 c0 {7,S} {9,S} {25,S} {26,S}
-9  C u0 p0 c0 {8,S} {27,S} {28,S} {29,S}
-10 H u0 p0 c0 {1,S}
-11 H u0 p0 c0 {1,S}
-12 H u0 p0 c0 {1,S}
-13 H u0 p0 c0 {2,S}
-14 H u0 p0 c0 {2,S}
-15 H u0 p0 c0 {3,S}
-16 H u0 p0 c0 {3,S}
-17 H u0 p0 c0 {4,S}
-18 H u0 p0 c0 {4,S}
-19 H u0 p0 c0 {5,S}
-20 H u0 p0 c0 {5,S}
-21 H u0 p0 c0 {6,S}
-22 H u0 p0 c0 {6,S}
-23 H u0 p0 c0 {7,S}
-24 H u0 p0 c0 {7,S}
-25 H u0 p0 c0 {8,S}
-26 H u0 p0 c0 {8,S}
-27 H u0 p0 c0 {9,S}
-28 H u0 p0 c0 {9,S}
-29 H u0 p0 c0 {9,S}
-""",
+    molecule = "CCCCCCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -1068,26 +671,7 @@ u"""
 entry(
     index = 21,
     label = "pentane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {6,S} {7,S} {8,S}
-2  C u0 p0 c0 {1,S} {3,S} {9,S} {10,S}
-3  C u0 p0 c0 {2,S} {4,S} {11,S} {12,S}
-4  C u0 p0 c0 {3,S} {5,S} {13,S} {14,S}
-5  C u0 p0 c0 {4,S} {15,S} {16,S} {17,S}
-6  H u0 p0 c0 {1,S}
-7  H u0 p0 c0 {1,S}
-8  H u0 p0 c0 {1,S}
-9  H u0 p0 c0 {2,S}
-10 H u0 p0 c0 {2,S}
-11 H u0 p0 c0 {3,S}
-12 H u0 p0 c0 {3,S}
-13 H u0 p0 c0 {4,S}
-14 H u0 p0 c0 {4,S}
-15 H u0 p0 c0 {5,S}
-16 H u0 p0 c0 {5,S}
-17 H u0 p0 c0 {5,S}
-""",
+    molecule = "CCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -1120,24 +704,7 @@ u"""
 entry(
     index = 22,
     label = "toluene",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {8,S} {9,S} {10,S}
-2  C u0 p0 c0 {1,S} {3,D} {7,S}
-3  C u0 p0 c0 {2,D} {4,S} {11,S}
-4  C u0 p0 c0 {3,S} {5,D} {12,S}
-5  C u0 p0 c0 {4,D} {6,S} {13,S}
-6  C u0 p0 c0 {5,S} {7,D} {14,S}
-7  C u0 p0 c0 {2,S} {6,D} {15,S}
-8  H u0 p0 c0 {1,S}
-9  H u0 p0 c0 {1,S}
-10 H u0 p0 c0 {1,S}
-11 H u0 p0 c0 {3,S}
-12 H u0 p0 c0 {4,S}
-13 H u0 p0 c0 {5,S}
-14 H u0 p0 c0 {6,S}
-15 H u0 p0 c0 {7,S}
-""",
+    molecule = "CC1C=CC=CC=1",
     solvent = SolventData(
         s_g = 0.938,
         b_g = 0.099,
@@ -1170,44 +737,7 @@ eps = 2.2 # aerage of range 2.0-2.4
 entry(
     index = 23,
     label = "undecane",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {12,S} {13,S} {14,S}
-2  C u0 p0 c0 {1,S} {3,S} {15,S} {16,S}
-3  C u0 p0 c0 {2,S} {4,S} {17,S} {18,S}
-4  C u0 p0 c0 {3,S} {5,S} {19,S} {20,S}
-5  C u0 p0 c0 {4,S} {6,S} {21,S} {22,S}
-6  C u0 p0 c0 {5,S} {7,S} {23,S} {24,S}
-7  C u0 p0 c0 {6,S} {8,S} {25,S} {26,S}
-8  C u0 p0 c0 {7,S} {9,S} {27,S} {28,S}
-9  C u0 p0 c0 {8,S} {10,S} {29,S} {30,S}
-10 C u0 p0 c0 {9,S} {11,S} {31,S} {32,S}
-11 C u0 p0 c0 {10,S} {33,S} {34,S} {35,S}
-12 H u0 p0 c0 {1,S}
-13 H u0 p0 c0 {1,S}
-14 H u0 p0 c0 {1,S}
-15 H u0 p0 c0 {2,S}
-16 H u0 p0 c0 {2,S}
-17 H u0 p0 c0 {3,S}
-18 H u0 p0 c0 {3,S}
-19 H u0 p0 c0 {4,S}
-20 H u0 p0 c0 {4,S}
-21 H u0 p0 c0 {5,S}
-22 H u0 p0 c0 {5,S}
-23 H u0 p0 c0 {6,S}
-24 H u0 p0 c0 {6,S}
-25 H u0 p0 c0 {7,S}
-26 H u0 p0 c0 {7,S}
-27 H u0 p0 c0 {8,S}
-28 H u0 p0 c0 {8,S}
-29 H u0 p0 c0 {9,S}
-30 H u0 p0 c0 {9,S}
-31 H u0 p0 c0 {10,S}
-32 H u0 p0 c0 {10,S}
-33 H u0 p0 c0 {11,S}
-34 H u0 p0 c0 {11,S}
-35 H u0 p0 c0 {11,S}
-""",
+    molecule = "CCCCCCCCCCC",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
@@ -1240,15 +770,7 @@ u"""
 entry(
     index = 24,
     label = "acetonitrile",
-    molecule =
-"""
-1 C u0 p0 c0 {2,S} {4,S} {5,S} {6,S}
-2 C u0 p0 c0 {1,S} {3,T}
-3 N u0 p1 c0 {2,T}
-4 H u0 p0 c0 {1,S}
-5 H u0 p0 c0 {1,S}
-6 H u0 p0 c0 {1,S}
-""",
+    molecule = "CC#N",
     solvent = SolventData(
         s_g = 2.461,
         b_g = 0.418,
@@ -1281,23 +803,7 @@ u"""
 entry(
     index = 25,
     label = "ethylacetate",
-    molecule =
-"""
-1  C u0 p0 c0 {2,S} {7,S} {8,S} {9,S}
-2  C u0 p0 c0 {1,S} {3,S} {10,S} {11,S}
-3  O u0 p2 c0 {2,S} {4,S}
-4  C u0 p0 c0 {3,S} {5,S} {6,D}
-5  C u0 p0 c0 {4,S} {12,S} {13,S} {14,S}
-6  O u0 p2 c0 {4,D}
-7  H u0 p0 c0 {1,S}
-8  H u0 p0 c0 {1,S}
-9  H u0 p0 c0 {1,S}
-10 H u0 p0 c0 {2,S}
-11 H u0 p0 c0 {2,S}
-12 H u0 p0 c0 {5,S}
-13 H u0 p0 c0 {5,S}
-14 H u0 p0 c0 {5,S}
-""",
+    molecule = "CCOC(C)=O",
     solvent = SolventData(
         s_g = 1.251,
         b_g = 0,
