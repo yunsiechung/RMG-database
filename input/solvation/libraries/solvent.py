@@ -31,6 +31,8 @@ entry(
         alpha = 0.353,
         beta = 0.38,
         eps = 80.4,
+        inCoolProp = True,
+        NameinCoolProp = "water",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -64,6 +66,8 @@ entry(
         alpha = 0.328,
         beta = 0.45,
         eps = 10.3,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -98,6 +102,8 @@ entry(
         alpha = 0,
         beta = 0.14,
         eps = 2.3,
+        inCoolProp = True,
+        NameinCoolProp = "benzene",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -131,6 +137,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 2.0,
+        inCoolProp = True,
+        NameinCoolProp = "CycloHexane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -164,6 +172,8 @@ entry(
         alpha = 0,
         beta = 0.45,
         eps = 3.1,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -197,6 +207,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 2.0,
+        inCoolProp = True,
+        NameinCoolProp = "Octane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -230,6 +242,8 @@ entry(
         alpha = 0.37,
         beta = 0.48,
         eps = 17.8,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -263,6 +277,8 @@ entry(
         alpha = 0,
         beta = 0.05,
         eps = 2.23,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -296,6 +312,8 @@ entry(
         alpha = 0.15,
         beta = 0.02,
         eps = 4.8,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -329,6 +347,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 2.0,
+        inCoolProp = True,
+        NameinCoolProp = "decane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -362,6 +382,8 @@ entry(
         alpha = 0.1,
         beta = 0.105,
         eps = 10.7,
+        inCoolProp = True,
+        NameinCoolProp = "Dichloroethane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -395,6 +417,8 @@ entry(
         alpha = 0,
         beta = 0.73,
         eps = 36.7,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -428,6 +452,8 @@ entry(
         alpha = 0,
         beta = 0.88,
         eps = 46.7,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -462,6 +488,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 2.0,
+        inCoolProp = True,
+        NameinCoolProp = "Dodecane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -495,6 +523,8 @@ entry(
         alpha = 0.37,
         beta = 0.48,
         eps = 24.3,
+        inCoolProp = True,
+        NameinCoolProp = "ethanol",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -528,6 +558,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 1.9,
+        inCoolProp = True,
+        NameinCoolProp = "Heptane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -561,6 +593,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 2.08,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -594,6 +628,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 2.0,
+        inCoolProp = True,
+        NameinCoolProp = "Hexane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -627,6 +663,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 1.94,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -660,6 +698,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 2.0,
+        inCoolProp = True,
+        NameinCoolProp = "nonane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -693,6 +733,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 1.8,
+        inCoolProp = True,
+        NameinCoolProp = "Pentane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -726,6 +768,8 @@ entry(
         alpha = 0,
         beta = 0.14,
         eps = 2.2,
+        inCoolProp = True,
+        NameinCoolProp = "toluene",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -759,6 +803,8 @@ entry(
         alpha = 0,
         beta = 0,
         eps = 2.0,
+        inCoolProp = True,
+        NameinCoolProp = "Undecane",
     ),
     shortDesc = u""" """,
     longDesc =
@@ -792,6 +838,8 @@ entry(
         alpha = 0.04,
         beta = 0.33,
         eps = 37.5,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
@@ -825,6 +873,8 @@ entry(
         alpha = 0,
         beta = 0.45,
         eps = 6.0,
+        inCoolProp = False,
+        NameinCoolProp = None,
     ),
     shortDesc = u""" """,
     longDesc =
