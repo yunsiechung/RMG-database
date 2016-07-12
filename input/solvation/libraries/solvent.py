@@ -883,3 +883,79 @@ u"""
 """,
 )
 
+entry(
+    index = 26,
+    label = "ow-wet",
+    solvent = SolventData(
+        s_g = -1.054,
+        b_g = -3.460,
+        e_g = 0.562,
+        a_g = 0.034,
+        c_g = 0.088,
+        inCoolProp = False,
+        NameinCoolProp = None,
+        v_g = 3.814,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 27,
+    label = "wet-1-octanol",
+    molecule = "CCCCCCCCO",
+    solvent = SolventData(
+        s_g = 0.709,
+        b_g = 1.429,
+        e_g = 0.002,
+        l_g = 0.858,
+        a_g = 3.519,
+        c_g = -0.198,
+        s_h = 5.89,
+        b_h = -8.99,
+        e_h = -1.04,
+        l_h = -9.18,
+        a_h = -53.99,
+        c_h = -6.49,
+        A = -0.022128,
+        B = 3018.4,
+        C = -2.8054,
+        D = 1.3141e-05,
+        E = 2,
+        alpha = 0.328,
+        beta = 0.45,
+        eps = 10.3,
+        inCoolProp = False,
+        NameinCoolProp = None,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+alpha = 0.328, #primary alcohols
+beta = 0.45, #primary alcohols,
+the Mintz descriptors are for  dry 1-octanol
+""",
+)
+
+entry(
+    index = 28,
+    label = "ow-dry",
+    solvent = SolventData(
+        s_g = -1.044,
+        b_g = -4.235,
+        e_g = 0.489,
+        a_g = -0.024,
+        c_g = -0.034,
+        inCoolProp = False,
+        NameinCoolProp = None,
+        v_g = 4.218,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
