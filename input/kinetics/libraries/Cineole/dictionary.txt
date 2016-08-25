@@ -1,0 +1,1426 @@
+R2O
+1  C u0 p0 c0 {2,S} {6,S} {8,S} {11,S}
+2  O u0 p2 c0 {1,S} {3,S}
+3  C u0 p0 c0 {2,S} {4,S} {9,S} {10,S}
+4  C u0 p0 c0 {3,S} {5,S} {7,S} {13,S}
+5  C u0 p0 c0 {4,S} {6,S} {14,S} {15,S}
+6  C u0 p0 c0 {1,S} {5,S} {16,S} {17,S}
+7  C u0 p0 c0 {4,S} {8,S} {12,S} {18,S}
+8  C u0 p0 c0 {1,S} {7,S} {19,S} {20,S}
+9  C u0 p0 c0 {3,S} {12,S} {21,S} {22,S}
+10 C u0 p0 c0 {3,S} {23,S} {24,S} {25,S}
+11 C u0 p0 c0 {1,S} {26,S} {27,S} {28,S}
+12 O u0 p2 c0 {7,S} {9,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {6,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {7,S}
+19 H u0 p0 c0 {8,S}
+20 H u0 p0 c0 {8,S}
+21 H u0 p0 c0 {9,S}
+22 H u0 p0 c0 {9,S}
+23 H u0 p0 c0 {10,S}
+24 H u0 p0 c0 {10,S}
+25 H u0 p0 c0 {10,S}
+26 H u0 p0 c0 {11,S}
+27 H u0 p0 c0 {11,S}
+28 H u0 p0 c0 {11,S}
+
+cycC7H10OOH-2b
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {8,S} {10,S}
+2  C u0 p0 c0 {1,S} {6,S} {11,S} {12,S}
+3  C u0 p0 c0 {1,S} {7,S} {13,S} {14,S}
+4  C u0 p0 c0 {5,S} {15,S} {16,S} {17,S}
+5  C u0 p0 c0 {4,S} {6,D} {7,S}
+6  C u0 p0 c0 {2,S} {5,D} {18,S}
+7  C u1 p0 c0 {3,S} {5,S} {19,S}
+8  O u0 p2 c0 {1,S} {9,S}
+9  O u0 p2 c0 {8,S} {20,S}
+10 H u0 p0 c0 {1,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {4,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {9,S}
+
+R2OO
+multiplicity 2
+1  C u0 p0 c0 {5,S} {6,S} {10,S} {11,S}
+2  C u0 p0 c0 {3,S} {8,S} {9,S} {11,S}
+3  C u0 p0 c0 {2,S} {4,S} {7,S} {13,S}
+4  C u0 p0 c0 {3,S} {5,S} {12,S} {14,S}
+5  C u0 p0 c0 {1,S} {4,S} {19,S} {20,S}
+6  C u0 p0 c0 {1,S} {7,S} {17,S} {18,S}
+7  C u0 p0 c0 {3,S} {6,S} {15,S} {16,S}
+8  C u0 p0 c0 {2,S} {21,S} {22,S} {23,S}
+9  C u0 p0 c0 {2,S} {24,S} {25,S} {26,S}
+10 C u0 p0 c0 {1,S} {27,S} {28,S} {29,S}
+11 O u0 p2 c0 {1,S} {2,S}
+12 O u0 p2 c0 {4,S} {30,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {7,S}
+16 H u0 p0 c0 {7,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {5,S}
+21 H u0 p0 c0 {8,S}
+22 H u0 p0 c0 {8,S}
+23 H u0 p0 c0 {8,S}
+24 H u0 p0 c0 {9,S}
+25 H u0 p0 c0 {9,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {10,S}
+29 H u0 p0 c0 {10,S}
+30 O u1 p2 c0 {12,S}
+
+R5a
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {6,S} {11,S}
+2  C u0 p0 c0 {1,S} {4,S} {12,S} {13,S}
+3  C u0 p0 c0 {1,S} {5,S} {14,S} {15,S}
+4  C u0 p0 c0 {2,S} {9,S} {16,S} {17,S}
+5  C u0 p0 c0 {3,S} {9,S} {18,S} {19,S}
+6  C u0 p0 c0 {1,S} {20,S} {21,S} {22,S}
+7  C u0 p0 c0 {10,S} {23,S} {24,S} {25,S}
+8  C u0 p0 c0 {10,S} {26,S} {27,S} {28,S}
+9  C u0 p0 c0 {4,S} {5,S} {10,D}
+10 C u0 p0 c0 {7,S} {8,S} {9,D}
+11 O u1 p2 c0 {1,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {2,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {3,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {4,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {6,S}
+21 H u0 p0 c0 {6,S}
+22 H u0 p0 c0 {6,S}
+23 H u0 p0 c0 {7,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {7,S}
+26 H u0 p0 c0 {8,S}
+27 H u0 p0 c0 {8,S}
+28 H u0 p0 c0 {8,S}
+
+R5a_bscis
+multiplicity 2
+1  C u0 p0 c0 {2,S} {7,S} {11,S} {12,S}
+2  C u0 p0 c0 {1,S} {9,S} {13,S} {14,S}
+3  C u0 p0 c0 {7,S} {10,S} {15,S} {16,S}
+4  C u0 p0 c0 {8,S} {17,S} {18,S} {19,S}
+5  C u0 p0 c0 {8,S} {20,S} {21,S} {22,S}
+6  C u0 p0 c0 {9,S} {23,S} {24,S} {25,S}
+7  C u0 p0 c0 {1,S} {3,S} {8,D}
+8  C u0 p0 c0 {4,S} {5,S} {7,D}
+9  C u0 p0 c0 {2,S} {6,S} {26,D}
+10 C u1 p0 c0 {3,S} {27,S} {28,S}
+11 H u0 p0 c0 {1,S}
+12 H u0 p0 c0 {1,S}
+13 H u0 p0 c0 {2,S}
+14 H u0 p0 c0 {2,S}
+15 H u0 p0 c0 {3,S}
+16 H u0 p0 c0 {3,S}
+17 H u0 p0 c0 {4,S}
+18 H u0 p0 c0 {4,S}
+19 H u0 p0 c0 {4,S}
+20 H u0 p0 c0 {5,S}
+21 H u0 p0 c0 {5,S}
+22 H u0 p0 c0 {5,S}
+23 H u0 p0 c0 {6,S}
+24 H u0 p0 c0 {6,S}
+25 H u0 p0 c0 {6,S}
+26 O u0 p2 c0 {9,D}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {10,S}
+
+C7H11OOexo2-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {4,S} {6,S} {8,S}
+2  C u0 p0 c0 {1,S} {3,S} {9,S} {10,S}
+3  C u0 p0 c0 {2,S} {5,S} {11,S} {12,S}
+4  C u0 p0 c0 {1,S} {13,S} {14,S} {15,S}
+5  C u0 p0 c0 {3,S} {7,D} {16,S}
+6  C u1 p0 c0 {1,S} {17,S} {18,S}
+7  C u0 p0 c0 {5,D} {19,S} {20,S}
+8  O u0 p2 c0 {1,S} {9,S}
+9  O u0 p2 c0 {2,S} {8,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+
+cycC7H11-1
+multiplicity 2
+1  C u0 p0 c0 {2,S} {5,S} {8,S} {9,S}
+2  C u0 p0 c0 {1,S} {6,S} {10,S} {11,S}
+3  C u0 p0 c0 {5,S} {7,S} {12,S} {13,S}
+4  C u0 p0 c0 {5,S} {14,S} {15,S} {16,S}
+5  C u1 p0 c0 {1,S} {3,S} {4,S}
+6  C u0 p0 c0 {2,S} {7,D} {17,S}
+7  C u0 p0 c0 {3,S} {6,D} {18,S}
+8  H u0 p0 c0 {1,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {7,S}
+
+cycC7H11-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {5,S} {10,S} {11,S}
+2  C u0 p0 c0 {1,S} {6,S} {8,S} {9,S}
+3  C u0 p0 c0 {6,S} {7,S} {12,S} {13,S}
+4  C u0 p0 c0 {5,S} {14,S} {15,S} {16,S}
+5  C u0 p0 c0 {1,S} {4,S} {7,D}
+6  C u1 p0 c0 {2,S} {3,S} {17,S}
+7  C u0 p0 c0 {3,S} {5,D} {18,S}
+8  H u0 p0 c0 {2,S}
+9  H u0 p0 c0 {2,S}
+10 H u0 p0 c0 {1,S}
+11 H u0 p0 c0 {1,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {7,S}
+
+bscisOC7H11O-1
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {8,S} {9,S}
+2  C u0 p0 c0 {1,S} {7,S} {8,S} {10,S}
+3  C u0 p0 c0 {1,S} {4,S} {11,S} {12,S}
+4  C u0 p0 c0 {3,S} {6,S} {13,S} {14,S}
+5  C u0 p0 c0 {6,S} {15,S} {16,S} {17,S}
+6  C u0 p0 c0 {4,S} {5,S} {18,D}
+7  C u1 p0 c0 {2,S} {19,S} {20,S}
+8  O u0 p2 c0 {1,S} {2,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 O u0 p2 c0 {6,D}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+
+cycC7H10OOH-2a
+multiplicity 2
+1  C u0 p0 c0 {2,S} {6,S} {8,S} {10,S}
+2  C u0 p0 c0 {1,S} {3,S} {11,S} {12,S}
+3  C u0 p0 c0 {2,S} {5,S} {13,S} {14,S}
+4  C u0 p0 c0 {5,S} {15,S} {16,S} {17,S}
+5  C u0 p0 c0 {3,S} {4,S} {7,D}
+6  C u1 p0 c0 {1,S} {7,S} {18,S}
+7  C u0 p0 c0 {5,D} {6,S} {19,S}
+8  O u0 p2 c0 {1,S} {9,S}
+9  O u0 p2 c0 {8,S} {20,S}
+10 H u0 p0 c0 {1,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {4,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {9,S}
+
+C3H5OJ
+multiplicity 2
+1 C u0 p0 c0 {2,S} {3,S} {4,S} {5,S}
+2 C u1 p0 c0 {1,S} {7,S} {8,S}
+3 C u0 p0 c0 {1,S} {6,D} {9,S}
+4 H u0 p0 c0 {1,S}
+5 H u0 p0 c0 {1,S}
+6 O u0 p2 c0 {3,D}
+7 H u0 p0 c0 {2,S}
+8 H u0 p0 c0 {2,S}
+9 H u0 p0 c0 {3,S}
+
+bscisOC7H11O-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {5,S} {8,S}
+2  C u0 p0 c0 {1,S} {6,S} {8,S} {9,S}
+3  C u0 p0 c0 {1,S} {4,S} {10,S} {11,S}
+4  C u0 p0 c0 {3,S} {7,S} {12,S} {13,S}
+5  C u0 p0 c0 {1,S} {14,S} {15,S} {16,S}
+6  C u1 p0 c0 {2,S} {18,S} {19,S}
+7  C u0 p0 c0 {4,S} {17,D} {20,S}
+8  O u0 p2 c0 {1,S} {2,S}
+9  H u0 p0 c0 {2,S}
+10 H u0 p0 c0 {3,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {4,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 O u0 p2 c0 {7,D}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {6,S}
+20 H u0 p0 c0 {7,S}
+
+C4H6O
+1  C u0 p0 c0 {2,S} {5,S} {6,S} {7,S}
+2  C u0 p0 c0 {1,S} {3,D} {4,S}
+3  C u0 p0 c0 {2,D} {9,S} {10,S}
+4  C u0 p0 c0 {2,S} {8,D} {11,S}
+5  H u0 p0 c0 {1,S}
+6  H u0 p0 c0 {1,S}
+7  H u0 p0 c0 {1,S}
+8  O u0 p2 c0 {4,D}
+9  H u0 p0 c0 {3,S}
+10 H u0 p0 c0 {3,S}
+11 H u0 p0 c0 {4,S}
+
+Q2OOH-1
+multiplicity 2
+1  C u0 p0 c0 {5,S} {6,S} {8,S} {11,S}
+2  C u0 p0 c0 {3,S} {4,S} {7,S} {14,S}
+3  C u0 p0 c0 {2,S} {9,S} {10,S} {11,S}
+4  C u0 p0 c0 {2,S} {5,S} {12,S} {15,S}
+5  C u0 p0 c0 {1,S} {4,S} {20,S} {21,S}
+6  C u0 p0 c0 {1,S} {7,S} {18,S} {19,S}
+7  C u0 p0 c0 {2,S} {6,S} {16,S} {17,S}
+8  C u0 p0 c0 {1,S} {25,S} {26,S} {27,S}
+9  C u0 p0 c0 {3,S} {22,S} {23,S} {24,S}
+10 C u1 p0 c0 {3,S} {28,S} {29,S}
+11 O u0 p2 c0 {1,S} {3,S}
+12 O u0 p2 c0 {4,S} {13,S}
+13 O u0 p2 c0 {12,S} {30,S}
+14 H u0 p0 c0 {2,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {7,S}
+17 H u0 p0 c0 {7,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {6,S}
+20 H u0 p0 c0 {5,S}
+21 H u0 p0 c0 {5,S}
+22 H u0 p0 c0 {9,S}
+23 H u0 p0 c0 {9,S}
+24 H u0 p0 c0 {9,S}
+25 H u0 p0 c0 {8,S}
+26 H u0 p0 c0 {8,S}
+27 H u0 p0 c0 {8,S}
+28 H u0 p0 c0 {10,S}
+29 H u0 p0 c0 {10,S}
+30 H u0 p0 c0 {13,S}
+
+Q2OOH-3
+multiplicity 2
+1  C u0 p0 c0 {5,S} {6,S} {9,S} {11,S}
+2  C u0 p0 c0 {3,S} {7,S} {8,S} {11,S}
+3  C u0 p0 c0 {2,S} {4,S} {10,S} {14,S}
+4  C u0 p0 c0 {3,S} {5,S} {12,S} {15,S}
+5  C u0 p0 c0 {1,S} {4,S} {16,S} {17,S}
+6  C u0 p0 c0 {1,S} {10,S} {18,S} {19,S}
+7  C u0 p0 c0 {2,S} {20,S} {21,S} {22,S}
+8  C u0 p0 c0 {2,S} {23,S} {24,S} {25,S}
+9  C u0 p0 c0 {1,S} {26,S} {27,S} {28,S}
+10 C u1 p0 c0 {3,S} {6,S} {29,S}
+11 O u0 p2 c0 {1,S} {2,S}
+12 O u0 p2 c0 {4,S} {13,S}
+13 O u0 p2 c0 {12,S} {30,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {6,S}
+20 H u0 p0 c0 {7,S}
+21 H u0 p0 c0 {7,S}
+22 H u0 p0 c0 {7,S}
+23 H u0 p0 c0 {8,S}
+24 H u0 p0 c0 {8,S}
+25 H u0 p0 c0 {8,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {9,S}
+28 H u0 p0 c0 {9,S}
+29 H u0 p0 c0 {10,S}
+30 H u0 p0 c0 {13,S}
+
+Q2OOH-2
+multiplicity 2
+1  C u0 p0 c0 {4,S} {5,S} {7,S} {11,S}
+2  C u0 p0 c0 {8,S} {9,S} {10,S} {11,S}
+3  C u0 p0 c0 {4,S} {10,S} {12,S} {16,S}
+4  C u0 p0 c0 {1,S} {3,S} {17,S} {18,S}
+5  C u0 p0 c0 {1,S} {6,S} {14,S} {15,S}
+6  C u0 p0 c0 {5,S} {10,S} {19,S} {20,S}
+7  C u0 p0 c0 {1,S} {27,S} {28,S} {29,S}
+8  C u0 p0 c0 {2,S} {21,S} {22,S} {23,S}
+9  C u0 p0 c0 {2,S} {24,S} {25,S} {26,S}
+10 C u1 p0 c0 {2,S} {3,S} {6,S}
+11 O u0 p2 c0 {1,S} {2,S}
+12 O u0 p2 c0 {3,S} {13,S}
+13 O u0 p2 c0 {12,S} {30,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {3,S}
+17 H u0 p0 c0 {4,S}
+18 H u0 p0 c0 {4,S}
+19 H u0 p0 c0 {6,S}
+20 H u0 p0 c0 {6,S}
+21 H u0 p0 c0 {8,S}
+22 H u0 p0 c0 {8,S}
+23 H u0 p0 c0 {8,S}
+24 H u0 p0 c0 {9,S}
+25 H u0 p0 c0 {9,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {7,S}
+28 H u0 p0 c0 {7,S}
+29 H u0 p0 c0 {7,S}
+30 H u0 p0 c0 {13,S}
+
+C3H5O
+multiplicity 2
+1 C u0 p0 c0 {2,S} {3,S} {4,S} {5,S}
+2 C u0 p0 c0 {1,S} {4,S} {6,S} {7,S}
+3 C u1 p0 c0 {1,S} {8,S} {9,S}
+4 O u0 p2 c0 {1,S} {2,S}
+5 H u0 p0 c0 {1,S}
+6 H u0 p0 c0 {2,S}
+7 H u0 p0 c0 {2,S}
+8 H u0 p0 c0 {3,S}
+9 H u0 p0 c0 {3,S}
+
+cycC7H10O-2b
+1  C u0 p0 c0 {3,S} {4,S} {8,S} {9,S}
+2  C u0 p0 c0 {3,S} {6,S} {8,S} {12,S}
+3  C u0 p0 c0 {1,S} {2,S} {10,S} {11,S}
+4  C u0 p0 c0 {1,S} {7,S} {13,S} {14,S}
+5  C u0 p0 c0 {6,S} {15,S} {16,S} {17,S}
+6  C u0 p0 c0 {2,S} {5,S} {7,D}
+7  C u0 p0 c0 {4,S} {6,D} {18,S}
+8  O u0 p2 c0 {1,S} {2,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {3,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {7,S}
+
+cycC7H10O-2a
+1  C u0 p0 c0 {2,S} {3,S} {8,S} {9,S}
+2  C u0 p0 c0 {1,S} {7,S} {8,S} {10,S}
+3  C u0 p0 c0 {1,S} {4,S} {11,S} {12,S}
+4  C u0 p0 c0 {3,S} {6,S} {13,S} {14,S}
+5  C u0 p0 c0 {6,S} {15,S} {16,S} {17,S}
+6  C u0 p0 c0 {4,S} {5,S} {7,D}
+7  C u0 p0 c0 {2,S} {6,D} {18,S}
+8  O u0 p2 c0 {1,S} {2,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {7,S}
+
+R4a
+multiplicity 2
+1  C u0 p0 c0 {2,S} {5,S} {6,S} {11,S}
+2  C u0 p0 c0 {1,S} {3,S} {4,S} {12,S}
+3  C u0 p0 c0 {2,S} {9,S} {15,S} {16,S}
+4  C u0 p0 c0 {2,S} {10,S} {13,S} {14,S}
+5  C u0 p0 c0 {1,S} {17,S} {18,S} {19,S}
+6  C u0 p0 c0 {1,S} {20,S} {21,S} {22,S}
+7  C u0 p0 c0 {8,S} {23,S} {24,S} {25,S}
+8  C u0 p0 c0 {7,S} {9,D} {11,S}
+9  C u0 p0 c0 {3,S} {8,D} {26,S}
+10 C u1 p0 c0 {4,S} {27,S} {28,S}
+11 O u0 p2 c0 {1,S} {8,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {3,S}
+16 H u0 p0 c0 {3,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {6,S}
+21 H u0 p0 c0 {6,S}
+22 H u0 p0 c0 {6,S}
+23 H u0 p0 c0 {7,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {7,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {10,S}
+
+C7H11OO-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {4,S} {8,S} {9,S}
+2  C u0 p0 c0 {1,S} {5,S} {10,S} {11,S}
+3  C u0 p0 c0 {4,S} {12,S} {13,S} {14,S}
+4  C u0 p0 c0 {1,S} {3,S} {6,D}
+5  C u0 p0 c0 {2,S} {7,D} {15,S}
+6  C u0 p0 c0 {4,D} {18,S} {19,S}
+7  C u0 p0 c0 {5,D} {16,S} {17,S}
+8  O u0 p2 c0 {1,S} {20,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {7,S}
+17 H u0 p0 c0 {7,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {6,S}
+20 O u1 p2 c0 {8,S}
+
+R4b_habs
+multiplicity 2
+1  C u0 p0 c0 {2,S} {5,S} {6,S} {11,S}
+2  C u0 p0 c0 {1,S} {3,S} {4,S} {12,S}
+3  C u0 p0 c0 {2,S} {9,S} {13,S} {14,S}
+4  C u0 p0 c0 {2,S} {10,S} {15,S} {16,S}
+5  C u0 p0 c0 {1,S} {17,S} {18,S} {19,S}
+6  C u0 p0 c0 {1,S} {20,S} {21,S} {22,S}
+7  C u0 p0 c0 {8,S} {23,S} {24,S} {25,S}
+8  C u0 p0 c0 {7,S} {9,D} {10,S}
+9  C u0 p0 c0 {3,S} {8,D} {26,S}
+10 C u1 p0 c0 {4,S} {8,S} {27,S}
+11 O u0 p2 c0 {1,S} {28,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {6,S}
+21 H u0 p0 c0 {6,S}
+22 H u0 p0 c0 {6,S}
+23 H u0 p0 c0 {7,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {7,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {11,S}
+
+R2c
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {5,S} {11,S}
+2  C u0 p0 c0 {1,S} {4,S} {12,S} {13,S}
+3  C u0 p0 c0 {1,S} {9,S} {14,S} {15,S}
+4  C u0 p0 c0 {2,S} {10,S} {16,S} {17,S}
+5  C u0 p0 c0 {1,S} {18,S} {19,S} {20,S}
+6  C u0 p0 c0 {8,S} {21,S} {22,S} {23,S}
+7  C u0 p0 c0 {8,S} {24,S} {25,S} {26,S}
+8  C u1 p0 c0 {6,S} {7,S} {11,S}
+9  C u0 p0 c0 {3,S} {10,D} {27,S}
+10 C u0 p0 c0 {4,S} {9,D} {28,S}
+11 O u0 p2 c0 {1,S} {8,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {2,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {3,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {4,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {5,S}
+21 H u0 p0 c0 {6,S}
+22 H u0 p0 c0 {6,S}
+23 H u0 p0 c0 {6,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {7,S}
+26 H u0 p0 c0 {7,S}
+27 H u0 p0 c0 {9,S}
+28 H u0 p0 c0 {10,S}
+
+R2b
+multiplicity 2
+1  C u0 p0 c0 {3,S} {4,S} {5,S} {11,S}
+2  C u0 p0 c0 {6,S} {7,S} {8,S} {11,S}
+3  C u0 p0 c0 {1,S} {9,S} {12,S} {13,S}
+4  C u0 p0 c0 {1,S} {10,S} {14,S} {15,S}
+5  C u0 p0 c0 {1,S} {19,S} {20,S} {21,S}
+6  C u0 p0 c0 {2,S} {16,S} {17,S} {18,S}
+7  C u0 p0 c0 {2,S} {22,S} {23,S} {24,S}
+8  C u0 p0 c0 {2,S} {9,D} {26,S}
+9  C u0 p0 c0 {3,S} {8,D} {25,S}
+10 C u1 p0 c0 {4,S} {27,S} {28,S}
+11 O u0 p2 c0 {1,S} {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {6,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {5,S}
+21 H u0 p0 c0 {5,S}
+22 H u0 p0 c0 {7,S}
+23 H u0 p0 c0 {7,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {9,S}
+26 H u0 p0 c0 {8,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {10,S}
+
+R2a
+multiplicity 2
+1  C u0 p0 c0 {2,S} {5,S} {6,S} {11,S}
+2  C u0 p0 c0 {1,S} {3,S} {9,S} {12,S}
+3  C u0 p0 c0 {2,S} {4,S} {13,S} {14,S}
+4  C u0 p0 c0 {3,S} {8,S} {15,S} {16,S}
+5  C u0 p0 c0 {1,S} {17,S} {18,S} {19,S}
+6  C u0 p0 c0 {1,S} {20,S} {21,S} {22,S}
+7  C u0 p0 c0 {8,S} {23,S} {24,S} {25,S}
+8  C u1 p0 c0 {4,S} {7,S} {11,S}
+9  C u0 p0 c0 {2,S} {10,D} {26,S}
+10 C u0 p0 c0 {9,D} {27,S} {28,S}
+11 O u0 p2 c0 {1,S} {8,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {6,S}
+21 H u0 p0 c0 {6,S}
+22 H u0 p0 c0 {6,S}
+23 H u0 p0 c0 {7,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {7,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {10,S}
+
+CH3
+multiplicity 2
+1 C u1 p0 c0 {2,S} {3,S} {4,S}
+2 H u0 p0 c0 {1,S}
+3 H u0 p0 c0 {1,S}
+4 H u0 p0 c0 {1,S}
+
+CH4
+1 C u0 p0 c0 {2,S} {3,S} {4,S} {5,S}
+2 H u0 p0 c0 {1,S}
+3 H u0 p0 c0 {1,S}
+4 H u0 p0 c0 {1,S}
+5 H u0 p0 c0 {1,S}
+
+cycC7H11O2-1
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {5,S} {8,S}
+2  C u0 p0 c0 {1,S} {4,S} {9,S} {10,S}
+3  C u0 p0 c0 {1,S} {7,S} {11,S} {12,S}
+4  C u0 p0 c0 {2,S} {6,S} {13,S} {14,S}
+5  C u0 p0 c0 {1,S} {15,S} {16,S} {17,S}
+6  C u0 p0 c0 {4,S} {7,D} {18,S}
+7  C u0 p0 c0 {3,S} {6,D} {19,S}
+8  O u0 p2 c0 {1,S} {20,S}
+9  H u0 p0 c0 {2,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 O u1 p2 c0 {8,S}
+
+exoaddcycC7H11O2-1
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {6,S} {8,S}
+2  C u0 p0 c0 {1,S} {4,S} {11,S} {12,S}
+3  C u0 p0 c0 {1,S} {5,S} {13,S} {14,S}
+4  C u0 p0 c0 {2,S} {7,S} {9,S} {10,S}
+5  C u0 p0 c0 {3,S} {7,S} {15,S} {16,S}
+6  C u0 p0 c0 {1,S} {17,S} {18,S} {19,S}
+7  C u1 p0 c0 {4,S} {5,S} {20,S}
+8  O u0 p2 c0 {1,S} {9,S}
+9  O u0 p2 c0 {4,S} {8,S}
+10 H u0 p0 c0 {4,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {6,S}
+20 H u0 p0 c0 {7,S}
+
+exoaddcycC7H11O2-2
+multiplicity 2
+1  C u0 p0 c0 {3,S} {4,S} {8,S} {10,S}
+2  C u0 p0 c0 {3,S} {7,S} {9,S} {11,S}
+3  C u0 p0 c0 {1,S} {2,S} {12,S} {13,S}
+4  C u0 p0 c0 {1,S} {5,S} {14,S} {15,S}
+5  C u0 p0 c0 {4,S} {7,S} {16,S} {17,S}
+6  C u0 p0 c0 {7,S} {18,S} {19,S} {20,S}
+7  C u1 p0 c0 {2,S} {5,S} {6,S}
+8  O u0 p2 c0 {1,S} {9,S}
+9  O u0 p2 c0 {2,S} {8,S}
+10 H u0 p0 c0 {1,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {6,S}
+20 H u0 p0 c0 {6,S}
+
+cycC7H11O2-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {4,S} {8,S} {9,S}
+2  C u0 p0 c0 {1,S} {3,S} {10,S} {11,S}
+3  C u0 p0 c0 {2,S} {6,S} {14,S} {15,S}
+4  C u0 p0 c0 {1,S} {7,S} {12,S} {13,S}
+5  C u0 p0 c0 {6,S} {16,S} {17,S} {18,S}
+6  C u0 p0 c0 {3,S} {5,S} {7,D}
+7  C u0 p0 c0 {4,S} {6,D} {19,S}
+8  O u0 p2 c0 {1,S} {20,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {4,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {3,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {7,S}
+20 O u1 p2 c0 {8,S}
+
+C4H7OJ
+multiplicity 2
+1  C u1 p0 c0 {2,S} {6,S} {7,S}
+2  C u0 p0 c0 {1,S} {3,S} {8,S} {9,S}
+3  C u0 p0 c0 {2,S} {4,D} {5,S}
+4  O u0 p2 c0 {3,D}
+5  C u0 p0 c0 {3,S} {10,S} {11,S} {12,S}
+6  H u0 p0 c0 {1,S}
+7  H u0 p0 c0 {1,S}
+8  H u0 p0 c0 {2,S}
+9  H u0 p0 c0 {2,S}
+10 H u0 p0 c0 {5,S}
+11 H u0 p0 c0 {5,S}
+12 H u0 p0 c0 {5,S}
+
+R4
+multiplicity 2
+1  C u0 p0 c0 {2,S} {7,S} {8,S} {11,S}
+2  C u0 p0 c0 {1,S} {5,S} {6,S} {12,S}
+3  C u0 p0 c0 {4,S} {9,S} {10,S} {11,S}
+4  C u0 p0 c0 {3,S} {5,S} {13,S} {14,S}
+5  C u0 p0 c0 {2,S} {4,S} {15,S} {16,S}
+6  C u0 p0 c0 {2,S} {10,S} {17,S} {18,S}
+7  C u0 p0 c0 {1,S} {22,S} {23,S} {24,S}
+8  C u0 p0 c0 {1,S} {25,S} {26,S} {27,S}
+9  C u0 p0 c0 {3,S} {19,S} {20,S} {21,S}
+10 C u1 p0 c0 {3,S} {6,S} {28,S}
+11 O u0 p2 c0 {1,S} {3,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {9,S}
+20 H u0 p0 c0 {9,S}
+21 H u0 p0 c0 {9,S}
+22 H u0 p0 c0 {7,S}
+23 H u0 p0 c0 {7,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {8,S}
+26 H u0 p0 c0 {8,S}
+27 H u0 p0 c0 {8,S}
+28 H u0 p0 c0 {10,S}
+
+R5
+multiplicity 2
+1  C u0 p0 c0 {3,S} {4,S} {7,S} {11,S}
+2  C u0 p0 c0 {8,S} {9,S} {10,S} {11,S}
+3  C u0 p0 c0 {1,S} {5,S} {12,S} {13,S}
+4  C u0 p0 c0 {1,S} {6,S} {14,S} {15,S}
+5  C u0 p0 c0 {3,S} {10,S} {16,S} {17,S}
+6  C u0 p0 c0 {4,S} {10,S} {18,S} {19,S}
+7  C u0 p0 c0 {1,S} {26,S} {27,S} {28,S}
+8  C u0 p0 c0 {2,S} {20,S} {21,S} {22,S}
+9  C u0 p0 c0 {2,S} {23,S} {24,S} {25,S}
+10 C u1 p0 c0 {2,S} {5,S} {6,S}
+11 O u0 p2 c0 {1,S} {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {6,S}
+20 H u0 p0 c0 {8,S}
+21 H u0 p0 c0 {8,S}
+22 H u0 p0 c0 {8,S}
+23 H u0 p0 c0 {9,S}
+24 H u0 p0 c0 {9,S}
+25 H u0 p0 c0 {9,S}
+26 H u0 p0 c0 {7,S}
+27 H u0 p0 c0 {7,S}
+28 H u0 p0 c0 {7,S}
+
+cycC7H10OOH-1a
+multiplicity 2
+1  C u0 p0 c0 {2,S} {4,S} {5,S} {8,S}
+2  C u0 p0 c0 {1,S} {3,S} {10,S} {11,S}
+3  C u0 p0 c0 {2,S} {6,S} {12,S} {13,S}
+4  C u0 p0 c0 {1,S} {14,S} {15,S} {16,S}
+5  C u1 p0 c0 {1,S} {7,S} {18,S}
+6  C u0 p0 c0 {3,S} {7,D} {17,S}
+7  C u0 p0 c0 {5,S} {6,D} {19,S}
+8  O u0 p2 c0 {1,S} {9,S}
+9  O u0 p2 c0 {8,S} {20,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {9,S}
+
+R1
+multiplicity 2
+1  C u0 p0 c0 {2,S} {8,S} {9,S} {11,S}
+2  C u0 p0 c0 {1,S} {5,S} {7,S} {12,S}
+3  C u0 p0 c0 {4,S} {6,S} {10,S} {11,S}
+4  C u0 p0 c0 {3,S} {5,S} {13,S} {14,S}
+5  C u0 p0 c0 {2,S} {4,S} {15,S} {16,S}
+6  C u0 p0 c0 {3,S} {7,S} {17,S} {18,S}
+7  C u0 p0 c0 {2,S} {6,S} {19,S} {20,S}
+8  C u0 p0 c0 {1,S} {21,S} {22,S} {23,S}
+9  C u0 p0 c0 {1,S} {24,S} {25,S} {26,S}
+10 C u1 p0 c0 {3,S} {27,S} {28,S}
+11 O u0 p2 c0 {1,S} {3,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+21 H u0 p0 c0 {8,S}
+22 H u0 p0 c0 {8,S}
+23 H u0 p0 c0 {8,S}
+24 H u0 p0 c0 {9,S}
+25 H u0 p0 c0 {9,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {10,S}
+
+R2
+multiplicity 2
+1  C u0 p0 c0 {4,S} {6,S} {7,S} {11,S}
+2  C u0 p0 c0 {3,S} {8,S} {9,S} {11,S}
+3  C u0 p0 c0 {2,S} {5,S} {10,S} {12,S}
+4  C u0 p0 c0 {1,S} {5,S} {13,S} {14,S}
+5  C u0 p0 c0 {3,S} {4,S} {15,S} {16,S}
+6  C u0 p0 c0 {1,S} {10,S} {17,S} {18,S}
+7  C u0 p0 c0 {1,S} {19,S} {20,S} {21,S}
+8  C u0 p0 c0 {2,S} {22,S} {23,S} {24,S}
+9  C u0 p0 c0 {2,S} {25,S} {26,S} {27,S}
+10 C u1 p0 c0 {3,S} {6,S} {28,S}
+11 O u0 p2 c0 {1,S} {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+21 H u0 p0 c0 {7,S}
+22 H u0 p0 c0 {8,S}
+23 H u0 p0 c0 {8,S}
+24 H u0 p0 c0 {8,S}
+25 H u0 p0 c0 {9,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {9,S}
+28 H u0 p0 c0 {10,S}
+
+R3
+multiplicity 2
+1  C u0 p0 c0 {4,S} {5,S} {8,S} {11,S}
+2  C u0 p0 c0 {3,S} {6,S} {7,S} {12,S}
+3  C u0 p0 c0 {2,S} {9,S} {10,S} {11,S}
+4  C u0 p0 c0 {1,S} {6,S} {13,S} {14,S}
+5  C u0 p0 c0 {1,S} {7,S} {17,S} {18,S}
+6  C u0 p0 c0 {2,S} {4,S} {15,S} {16,S}
+7  C u0 p0 c0 {2,S} {5,S} {19,S} {20,S}
+8  C u0 p0 c0 {1,S} {24,S} {25,S} {26,S}
+9  C u0 p0 c0 {3,S} {21,S} {22,S} {23,S}
+10 C u1 p0 c0 {3,S} {27,S} {28,S}
+11 O u0 p2 c0 {1,S} {3,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {6,S}
+16 H u0 p0 c0 {6,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+21 H u0 p0 c0 {9,S}
+22 H u0 p0 c0 {9,S}
+23 H u0 p0 c0 {9,S}
+24 H u0 p0 c0 {8,S}
+25 H u0 p0 c0 {8,S}
+26 H u0 p0 c0 {8,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {10,S}
+
+cycC7H10OOH-1b
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {4,S} {8,S}
+2  C u0 p0 c0 {1,S} {5,S} {10,S} {11,S}
+3  C u0 p0 c0 {1,S} {6,S} {12,S} {13,S}
+4  C u0 p0 c0 {1,S} {14,S} {15,S} {16,S}
+5  C u0 p0 c0 {2,S} {7,D} {17,S}
+6  C u1 p0 c0 {3,S} {7,S} {18,S}
+7  C u0 p0 c0 {5,D} {6,S} {19,S}
+8  O u0 p2 c0 {1,S} {9,S}
+9  O u0 p2 c0 {8,S} {20,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {9,S}
+
+C7H11O_Oexo-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {4,S} {8,S} {9,S}
+2  C u0 p0 c0 {1,S} {3,S} {10,S} {11,S}
+3  C u0 p0 c0 {2,S} {6,S} {12,S} {13,S}
+4  C u0 p0 c0 {1,S} {8,S} {14,S} {15,S}
+5  C u0 p0 c0 {6,S} {16,S} {17,S} {18,S}
+6  C u0 p0 c0 {3,S} {5,S} {7,D}
+7  C u0 p0 c0 {6,D} {19,S} {20,S}
+8  O u0 p2 c0 {1,S} {4,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 O u1 p2 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+
+OH
+multiplicity 2
+1 O u1 p2 c0 {2,S}
+2 H u0 p0 c0 {1,S}
+
+OC7H11O-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {7,S} {8,S}
+2  C u0 p0 c0 {1,S} {4,S} {8,S} {9,S}
+3  C u0 p0 c0 {1,S} {6,S} {16,S} {17,S}
+4  C u0 p0 c0 {2,S} {5,S} {11,S} {12,S}
+5  C u0 p0 c0 {4,S} {6,S} {10,S} {13,S}
+6  C u0 p0 c0 {3,S} {5,S} {14,S} {15,S}
+7  C u0 p0 c0 {1,S} {18,S} {19,S} {20,S}
+8  O u0 p2 c0 {1,S} {2,S}
+9  H u0 p0 c0 {2,S}
+10 O u1 p2 c0 {5,S}
+11 H u0 p0 c0 {4,S}
+12 H u0 p0 c0 {4,S}
+13 H u0 p0 c0 {5,S}
+14 H u0 p0 c0 {6,S}
+15 H u0 p0 c0 {6,S}
+16 H u0 p0 c0 {3,S}
+17 H u0 p0 c0 {3,S}
+18 H u0 p0 c0 {7,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+
+OC7H11O-1
+multiplicity 2
+1  C u0 p0 c0 {4,S} {5,S} {7,S} {9,S}
+2  C u0 p0 c0 {3,S} {6,S} {8,S} {10,S}
+3  C u0 p0 c0 {2,S} {4,S} {8,S} {11,S}
+4  C u0 p0 c0 {1,S} {3,S} {12,S} {13,S}
+5  C u0 p0 c0 {1,S} {6,S} {14,S} {15,S}
+6  C u0 p0 c0 {2,S} {5,S} {16,S} {17,S}
+7  C u0 p0 c0 {1,S} {18,S} {19,S} {20,S}
+8  O u0 p2 c0 {2,S} {3,S}
+9  O u1 p2 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {4,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {6,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {7,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+
+cycC7H10
+1  C u0 p0 c0 {2,S} {4,S} {8,S} {9,S}
+2  C u0 p0 c0 {1,S} {5,S} {10,S} {11,S}
+3  C u0 p0 c0 {4,S} {12,S} {13,S} {14,S}
+4  C u0 p0 c0 {1,S} {3,S} {6,D}
+5  C u0 p0 c0 {2,S} {7,D} {15,S}
+6  C u0 p0 c0 {4,D} {7,S} {17,S}
+7  C u0 p0 c0 {5,D} {6,S} {16,S}
+8  H u0 p0 c0 {1,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {7,S}
+17 H u0 p0 c0 {6,S}
+
+C7H11-1
+multiplicity 2
+1  C u0 p0 c0 {3,S} {4,S} {8,S} {9,S}
+2  C u0 p0 c0 {3,S} {10,S} {11,S} {12,S}
+3  C u0 p0 c0 {1,S} {2,S} {6,D}
+4  C u1 p0 c0 {1,S} {5,S} {13,S}
+5  C u0 p0 c0 {4,S} {7,D} {14,S}
+6  C u0 p0 c0 {3,D} {17,S} {18,S}
+7  C u0 p0 c0 {5,D} {15,S} {16,S}
+8  H u0 p0 c0 {1,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {7,S}
+16 H u0 p0 c0 {7,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+
+C7H11-2
+multiplicity 2
+1  C u0 p0 c0 {4,S} {5,S} {8,S} {9,S}
+2  C u0 p0 c0 {3,S} {10,S} {11,S} {12,S}
+3  C u0 p0 c0 {2,S} {4,S} {6,D}
+4  C u1 p0 c0 {1,S} {3,S} {14,S}
+5  C u0 p0 c0 {1,S} {7,D} {13,S}
+6  C u0 p0 c0 {3,D} {17,S} {18,S}
+7  C u0 p0 c0 {5,D} {15,S} {16,S}
+8  H u0 p0 c0 {1,S}
+9  H u0 p0 c0 {1,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {5,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {7,S}
+16 H u0 p0 c0 {7,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+
+C3H4O
+1 C u0 p0 c0 {2,D} {5,S} {6,S}
+2 C u0 p0 c0 {1,D} {3,S} {7,S}
+3 C u0 p0 c0 {2,S} {4,D} {8,S}
+4 O u0 p2 c0 {3,D}
+5 H u0 p0 c0 {1,S}
+6 H u0 p0 c0 {1,S}
+7 H u0 p0 c0 {2,S}
+8 H u0 p0 c0 {3,S}
+
+cycC7H10OOH-1bscis
+multiplicity 2
+1  C u0 p0 c0 {3,S} {4,S} {10,S} {11,S}
+2  C u0 p0 c0 {3,S} {12,S} {13,S} {14,S}
+3  C u1 p0 c0 {1,S} {2,S} {8,S}
+4  C u0 p0 c0 {1,S} {5,D} {15,S}
+5  C u0 p0 c0 {4,D} {6,S} {16,S}
+6  C u0 p0 c0 {5,S} {7,D} {17,S}
+7  C u0 p0 c0 {6,D} {18,S} {19,S}
+8  O u0 p2 c0 {3,S} {9,S}
+9  O u0 p2 c0 {8,S} {20,S}
+10 H u0 p0 c0 {1,S}
+11 H u0 p0 c0 {1,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {2,S}
+14 H u0 p0 c0 {2,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {7,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {9,S}
+
+Cineole
+1  C u0 p0 c0 {4,S} {5,S} {10,S} {11,S}
+2  C u0 p0 c0 {3,S} {8,S} {9,S} {11,S}
+3  C u0 p0 c0 {2,S} {6,S} {7,S} {12,S}
+4  C u0 p0 c0 {1,S} {6,S} {15,S} {16,S}
+5  C u0 p0 c0 {1,S} {7,S} {19,S} {20,S}
+6  C u0 p0 c0 {3,S} {4,S} {13,S} {14,S}
+7  C u0 p0 c0 {3,S} {5,S} {17,S} {18,S}
+8  C u0 p0 c0 {2,S} {21,S} {22,S} {23,S}
+9  C u0 p0 c0 {2,S} {24,S} {25,S} {26,S}
+10 C u0 p0 c0 {1,S} {27,S} {28,S} {29,S}
+11 O u0 p2 c0 {1,S} {2,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {6,S}
+14 H u0 p0 c0 {6,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {7,S}
+18 H u0 p0 c0 {7,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {5,S}
+21 H u0 p0 c0 {8,S}
+22 H u0 p0 c0 {8,S}
+23 H u0 p0 c0 {8,S}
+24 H u0 p0 c0 {9,S}
+25 H u0 p0 c0 {9,S}
+26 H u0 p0 c0 {9,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {10,S}
+29 H u0 p0 c0 {10,S}
+
+acetone
+1  C u0 p0 c0 {2,S} {5,S} {6,S} {7,S}
+2  C u0 p0 c0 {1,S} {3,D} {4,S}
+3  O u0 p2 c0 {2,D}
+4  C u0 p0 c0 {2,S} {8,S} {9,S} {10,S}
+5  H u0 p0 c0 {1,S}
+6  H u0 p0 c0 {1,S}
+7  H u0 p0 c0 {1,S}
+8  H u0 p0 c0 {4,S}
+9  H u0 p0 c0 {4,S}
+10 H u0 p0 c0 {4,S}
+
+R2ene
+1  C u0 p0 c0 {2,S} {6,S} {8,S} {11,S}
+2  O u0 p2 c0 {1,S} {3,S}
+3  C u0 p0 c0 {2,S} {4,S} {9,S} {10,S}
+4  C u0 p0 c0 {3,S} {5,S} {7,S} {12,S}
+5  C u0 p0 c0 {4,S} {6,D} {13,S}
+6  C u0 p0 c0 {1,S} {5,D} {14,S}
+7  C u0 p0 c0 {4,S} {8,S} {15,S} {16,S}
+8  C u0 p0 c0 {1,S} {7,S} {17,S} {18,S}
+9  C u0 p0 c0 {3,S} {19,S} {20,S} {21,S}
+10 C u0 p0 c0 {3,S} {22,S} {23,S} {24,S}
+11 C u0 p0 c0 {1,S} {25,S} {26,S} {27,S}
+12 H u0 p0 c0 {4,S}
+13 H u0 p0 c0 {5,S}
+14 H u0 p0 c0 {6,S}
+15 H u0 p0 c0 {7,S}
+16 H u0 p0 c0 {7,S}
+17 H u0 p0 c0 {8,S}
+18 H u0 p0 c0 {8,S}
+19 H u0 p0 c0 {9,S}
+20 H u0 p0 c0 {9,S}
+21 H u0 p0 c0 {9,S}
+22 H u0 p0 c0 {10,S}
+23 H u0 p0 c0 {10,S}
+24 H u0 p0 c0 {10,S}
+25 H u0 p0 c0 {11,S}
+26 H u0 p0 c0 {11,S}
+27 H u0 p0 c0 {11,S}
+
+cycC7H10O-1c
+1  C u0 p0 c0 {2,S} {4,S} {5,S} {8,S}
+2  C u0 p0 c0 {1,S} {3,S} {10,S} {11,S}
+3  C u0 p0 c0 {2,S} {6,S} {8,S} {9,S}
+4  C u0 p0 c0 {1,S} {7,S} {12,S} {13,S}
+5  C u0 p0 c0 {1,S} {14,S} {15,S} {16,S}
+6  C u0 p0 c0 {3,S} {7,D} {18,S}
+7  C u0 p0 c0 {4,S} {6,D} {17,S}
+8  O u0 p2 c0 {1,S} {3,S}
+9  H u0 p0 c0 {3,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {4,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {7,S}
+18 H u0 p0 c0 {6,S}
+
+cycC7H10O-1b
+1  C u0 p0 c0 {2,S} {5,S} {6,S} {8,S}
+2  C u0 p0 c0 {1,S} {4,S} {12,S} {13,S}
+3  C u0 p0 c0 {4,S} {7,S} {8,S} {9,S}
+4  C u0 p0 c0 {2,S} {3,S} {10,S} {11,S}
+5  C u0 p0 c0 {1,S} {14,S} {15,S} {16,S}
+6  C u0 p0 c0 {1,S} {7,D} {17,S}
+7  C u0 p0 c0 {3,S} {6,D} {18,S}
+8  O u0 p2 c0 {1,S} {3,S}
+9  H u0 p0 c0 {3,S}
+10 H u0 p0 c0 {4,S}
+11 H u0 p0 c0 {4,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {2,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {7,S}
+
+cycC7H10O-1a
+1  C u0 p0 c0 {2,S} {3,S} {5,S} {8,S}
+2  C u0 p0 c0 {1,S} {6,S} {8,S} {11,S}
+3  C u0 p0 c0 {1,S} {4,S} {9,S} {10,S}
+4  C u0 p0 c0 {3,S} {7,S} {12,S} {13,S}
+5  C u0 p0 c0 {1,S} {14,S} {15,S} {16,S}
+6  C u0 p0 c0 {2,S} {7,D} {18,S}
+7  C u0 p0 c0 {4,S} {6,D} {17,S}
+8  O u0 p2 c0 {1,S} {2,S}
+9  H u0 p0 c0 {3,S}
+10 H u0 p0 c0 {3,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {4,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {5,S}
+17 H u0 p0 c0 {7,S}
+18 H u0 p0 c0 {6,S}
+
+Cl
+multiplicity 2
+1 Cl u1 p3 c0
+
+R4b
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {4,S} {12,S}
+2  C u0 p0 c0 {1,S} {6,S} {7,S} {11,S}
+3  C u0 p0 c0 {1,S} {5,S} {13,S} {14,S}
+4  C u0 p0 c0 {1,S} {10,S} {15,S} {16,S}
+5  C u0 p0 c0 {3,S} {9,S} {17,S} {18,S}
+6  C u0 p0 c0 {2,S} {19,S} {20,S} {21,S}
+7  C u0 p0 c0 {2,S} {22,S} {23,S} {24,S}
+8  C u0 p0 c0 {9,S} {25,S} {26,S} {27,S}
+9  C u0 p0 c0 {5,S} {8,S} {10,D}
+10 C u0 p0 c0 {4,S} {9,D} {28,S}
+11 O u1 p2 c0 {2,S}
+12 H u0 p0 c0 {1,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {6,S}
+20 H u0 p0 c0 {6,S}
+21 H u0 p0 c0 {6,S}
+22 H u0 p0 c0 {7,S}
+23 H u0 p0 c0 {7,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {8,S}
+26 H u0 p0 c0 {8,S}
+27 H u0 p0 c0 {8,S}
+28 H u0 p0 c0 {10,S}
+
+OOH
+multiplicity 2
+1 O u0 p2 c0 {2,S} {3,S}
+2 O u1 p2 c0 {1,S}
+3 H u0 p0 c0 {1,S}
+
+cycC7H10OOH-2bscis
+multiplicity 2
+1  C u0 p0 c0 {4,S} {6,S} {10,S} {11,S}
+2  C u0 p0 c0 {3,S} {12,S} {13,S} {14,S}
+3  C u0 p0 c0 {2,S} {4,D} {5,S}
+4  C u0 p0 c0 {1,S} {3,D} {15,S}
+5  C u0 p0 c0 {3,S} {7,D} {17,S}
+6  C u1 p0 c0 {1,S} {8,S} {16,S}
+7  C u0 p0 c0 {5,D} {18,S} {19,S}
+8  O u0 p2 c0 {6,S} {9,S}
+9  O u0 p2 c0 {8,S} {20,S}
+10 H u0 p0 c0 {1,S}
+11 H u0 p0 c0 {1,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {2,S}
+14 H u0 p0 c0 {2,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {6,S}
+17 H u0 p0 c0 {5,S}
+18 H u0 p0 c0 {7,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {9,S}
+
+C7H11OOexo-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {5,S} {9,S} {10,S}
+2  C u0 p0 c0 {1,S} {3,S} {11,S} {12,S}
+3  C u0 p0 c0 {2,S} {6,S} {8,S} {13,S}
+4  C u0 p0 c0 {5,S} {14,S} {15,S} {16,S}
+5  C u0 p0 c0 {1,S} {4,S} {7,D}
+6  C u1 p0 c0 {3,S} {17,S} {18,S}
+7  C u0 p0 c0 {5,D} {19,S} {20,S}
+8  O u0 p2 c0 {3,S} {9,S}
+9  O u0 p2 c0 {1,S} {8,S}
+10 H u0 p0 c0 {1,S}
+11 H u0 p0 c0 {2,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {3,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+
+bscisbscisOC7H11O-1
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {8,S} {9,S}
+2  C u0 p0 c0 {1,S} {5,S} {12,S} {13,S}
+3  C u0 p0 c0 {1,S} {6,S} {10,S} {11,S}
+4  C u0 p0 c0 {5,S} {14,S} {15,S} {16,S}
+5  C u0 p0 c0 {2,S} {4,S} {17,D}
+6  C u0 p0 c0 {3,S} {7,D} {18,S}
+7  C u0 p0 c0 {6,D} {19,S} {20,S}
+8  H u0 p0 c0 {1,S}
+9  H u0 p0 c0 {1,S}
+10 O u1 p2 c0 {3,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {2,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {4,S}
+17 O u0 p2 c0 {5,D}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+
+bscisbscisOC7H11O-2
+multiplicity 2
+1  C u0 p0 c0 {2,S} {4,S} {5,S} {8,S}
+2  C u0 p0 c0 {1,S} {3,S} {9,S} {10,S}
+3  C u0 p0 c0 {2,S} {6,S} {11,S} {12,S}
+4  C u0 p0 c0 {1,S} {13,S} {14,S} {15,S}
+5  C u0 p0 c0 {1,S} {7,D} {16,S}
+6  C u0 p0 c0 {3,S} {17,D} {18,S}
+7  C u0 p0 c0 {5,D} {19,S} {20,S}
+8  O u1 p2 c0 {1,S}
+9  H u0 p0 c0 {2,S}
+10 H u0 p0 c0 {2,S}
+11 H u0 p0 c0 {3,S}
+12 H u0 p0 c0 {3,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {4,S}
+15 H u0 p0 c0 {4,S}
+16 H u0 p0 c0 {5,S}
+17 O u0 p2 c0 {6,D}
+18 H u0 p0 c0 {6,S}
+19 H u0 p0 c0 {7,S}
+20 H u0 p0 c0 {7,S}
+
+R5a_habs
+multiplicity 2
+1  C u0 p0 c0 {2,S} {3,S} {5,S} {11,S}
+2  C u0 p0 c0 {1,S} {4,S} {12,S} {13,S}
+3  C u0 p0 c0 {1,S} {10,S} {14,S} {15,S}
+4  C u0 p0 c0 {2,S} {9,S} {16,S} {17,S}
+5  C u0 p0 c0 {1,S} {18,S} {19,S} {20,S}
+6  C u0 p0 c0 {8,S} {21,S} {22,S} {23,S}
+7  C u0 p0 c0 {8,S} {24,S} {25,S} {26,S}
+8  C u0 p0 c0 {6,S} {7,S} {9,D}
+9  C u0 p0 c0 {4,S} {8,D} {10,S}
+10 C u1 p0 c0 {3,S} {9,S} {27,S}
+11 O u0 p2 c0 {1,S} {28,S}
+12 H u0 p0 c0 {2,S}
+13 H u0 p0 c0 {2,S}
+14 H u0 p0 c0 {3,S}
+15 H u0 p0 c0 {3,S}
+16 H u0 p0 c0 {4,S}
+17 H u0 p0 c0 {4,S}
+18 H u0 p0 c0 {5,S}
+19 H u0 p0 c0 {5,S}
+20 H u0 p0 c0 {5,S}
+21 H u0 p0 c0 {6,S}
+22 H u0 p0 c0 {6,S}
+23 H u0 p0 c0 {6,S}
+24 H u0 p0 c0 {7,S}
+25 H u0 p0 c0 {7,S}
+26 H u0 p0 c0 {7,S}
+27 H u0 p0 c0 {10,S}
+28 H u0 p0 c0 {11,S}
+
+HCl
+1 Cl u0 p3 c0 {2,S}
+2 H  u0 p0 c0 {1,S}
+
