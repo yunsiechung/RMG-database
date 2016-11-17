@@ -883,3 +883,104 @@ u"""
 """,
 )
 
+entry(
+    index = 26,
+    label = "acetone",
+    molecule = "CC(C)=O",
+    solvent = SolventData(
+        s_g = 1.522,
+        b_g = 0.078,
+        e_g = -0.277,
+        l_g = 0.863,
+        a_g = 3.258,
+        c_g = 0.154,
+        s_h = -17.017,
+        b_h = -4.581,
+        e_h = 4.397,
+        l_h = -7.326,
+        a_h = -36.105,
+        c_h = -4.811,
+        A = -14.918,
+        B = 1023.4,
+        C = 0.05961,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+        inCoolProp = True,
+        NameinCoolProp = 'acetone',
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+Abraham parameters obtained from:
+Michael H. Abraham, William E. Acree, Jr.
+Green Chem., 2006, 8, 906-915
+DOI: 10.1039/b606279b
+
+Mintz parameters obtained from:
+Christina Mintz
+Predicting Chemical and Biochemical Properties Using the Abraham General Solvation Model
+Doctoral Thesis (2009), University of North Texas
+
+Viscosity parameters obtained from:
+Dabir S. Viswanath, Tushar K. Ghosh, Dasika. H. L. Prasad, Nidamarty V. K. Dutt, Kalipatnapu Y. Rani
+Viscosity of Liquids (Springer, 2007)
+ISBN-10 1-4020-5481-5 (HB)
+ISBN-13 978-1-4020-5481-5 (HB)
+ISBN-10 1-4020-5482-3 (e-book)
+ISBN-13 978-1-4020-5482-2 (e-book)
+""",
+)
+
+entry(
+    index = 27,
+    label = "methanol",
+    molecule = "CO",
+    solvent = SolventData(
+        s_g = 1.173,
+        b_g = 1.432,
+        e_g = -0.215,
+        l_g = 0.769,
+        a_g = 3.701,
+        c_g = -0.004,
+        s_h = -1.807,
+        b_h = -15.466,
+        e_h = -2.506,
+        l_h = -7.674,
+        a_h = -37.692,
+        c_h = -6.366,
+        A = -7.288,
+        B = 1065.3,
+        C = -0.6657,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+        inCoolProp = True,
+        NameinCoolProp = 'methanol',
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+Abraham parameters obtained from:
+Michael H. Abraham, William E. Acree, Jr.
+Green Chem., 2006, 8, 906-915
+DOI: 10.1039/b606279b
+
+Mintz parameters obtained from:
+Christina Mintz
+Predicting Chemical and Biochemical Properties Using the Abraham General Solvation Model
+Doctoral Thesis (2009), University of North Texas
+
+Viscosity parameters obtained from:
+Dabir S. Viswanath, Tushar K. Ghosh, Dasika. H. L. Prasad, Nidamarty V. K. Dutt, Kalipatnapu Y. Rani
+Viscosity of Liquids (Springer, 2007)
+ISBN-10 1-4020-5481-5 (HB)
+ISBN-13 978-1-4020-5481-5 (HB)
+ISBN-10 1-4020-5482-3 (e-book)
+ISBN-13 978-1-4020-5482-2 (e-book)
+""",
+)

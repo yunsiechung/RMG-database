@@ -2898,3 +2898,66 @@ Phys. Chem. Chem. Phys., 2001,3, 3732-3736
 DOI: 10.1039/B104682A 
 """,
 )
+
+entry(
+    index = 153,
+    label = "H2",
+    molecule = '[H][H]',
+    solute = SoluteData(
+        S = 0.0,
+        B = 0.00,
+        E = 0.00,
+        L = -1.200,
+        A = 0.00,
+        V = 0.109
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Michael H. Abraham, William E. Acree, Jr.
+Green Chem., 2006, 8, 906-915
+DOI: 10.1039/b606279b
+""",
+)
+
+entry(
+    index = 154,
+    label = "carbon monoxide",
+    molecule = '[C-]#[O+]',
+    solute = SoluteData(
+        S = 0.0,
+        B = 0.040,
+        E = 0.00,
+        L = -0.836,
+        A = 0.00,
+        V = 0.222
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Michael H. Abraham, William E. Acree, Jr.
+Green Chem., 2006, 8, 906-915
+DOI: 10.1039/b606279b
+""",
+)
+
+entry(
+    index = 155,
+    label = "carbon dioxide",
+    molecule = 'O=C=O',
+    solute = SoluteData(
+        S = 0.280,
+        B = 0.100,
+        E = 0.00,
+        L = 0.058,
+        A = 0.050,
+        V = 0.281
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Michael H. Abraham, William E. Acree, Jr.
+Green Chem., 2006, 8, 906-915
+DOI: 10.1039/b606279b
+""",
+)
