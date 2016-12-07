@@ -5683,3 +5683,22 @@ u"""
 """,
 )
 
+forbidden(
+    label = "cineole_R1cyc5_1",
+    group =
+"""
+1 C u0 (2,S) (5,S) (6,S)
+2 C u0 (1,S) (3,S)
+3 C u0 (2,S) (4,S)
+4 C u0 (3,S) (5,D) (7,S)
+5 C u0 (1,S) (4,D)
+6 *1 C u1 (1,S)
+7 *2 C u0 (4,S) (8,S)
+8 *3 H u0 (7,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+
+""",
+)
