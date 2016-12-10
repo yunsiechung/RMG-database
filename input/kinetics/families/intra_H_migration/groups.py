@@ -5702,3 +5702,124 @@ u"""
 
 """,
 )
+
+#/////////////////////////////////////////////////////////////////////
+forbidden(
+    label = "cineole_R2_R3",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 *1 C u1 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 *2 C u0 (2,S) (12,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (9,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+
+""",
+)
+
+forbidden(
+    label = "cineole_R2_R4",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 *1 C u1 (3,S) (5,S)
+5 *2 C u0 (4,S) (6,S) (12,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (5,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+
+""",
+)
+
+forbidden(
+    label = "cineole_R2_R4_2",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 *2 C u0 (4,S) (6,S) (12,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 *1 C u1 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (5,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+
+""",
+)
+
+forbidden(
+    label = "cineole_R2_R5",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 *2  C u0 (2,S) (4,S) (8,S) (12,S)
+4 *1 C u1 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (3,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+
+""",
+)
+
+forbidden(
+    label = "cineole_R3_R4",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 *2 C u0 (4,S) (6,S) (12,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 *1 C u1 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (5,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+
+""",
+)
