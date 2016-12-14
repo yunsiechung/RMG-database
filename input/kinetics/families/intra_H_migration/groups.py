@@ -5823,3 +5823,25 @@ u"""
 
 """,
 )
+
+forbidden(
+    label = "cineole_R1cyc6_1",
+    group =
+"""
+1 *1 O u1 (2,S)
+2 O u0 (1,S) (3,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (5,S) (7,D) (9,S)
+7 C u0 (6,D) (8,S)
+8 C u0 (3,S) (7,S)
+9 *2 C u0 (6,S) (10,S)
+10 *3 H u0 (9,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+
+""",
+)
