@@ -7209,32 +7209,6 @@ Fitted from molecule s3_5_6_ane from Bicyclics_QM_190_isomorphic library.
 )
 
 entry(
-    index = 192,
-    label = "s3_5_6_ane_hetero_OO",
-    group =
-"""
-1   C u0 {3,S} {5,S} {6,S}
-2   C u0 {3,S} {4,S} {7,S}
-3   C u0 {1,S} {2,S}
-4   O u0 {2,S} {5,S}
-5   O u0 {1,S} {4,S}
-6   C u0 {1,S} {8,S}
-7   C u0 {2,S} {8,S}
-8 * C u0 {6,S} {7,S}
-""",
-    thermo = ThermoData(
-        Tdata=([300,400,500,600,800,1000,1500],'K'),
-        Cpdata=([-47.7149,-45.7412,-42.0746,-39.166,-33.1165,-26.6229,-14.3625],'J/(mol*K)'),
-        H298=(-7528.81,'J/mol'),
-        S298=(211.387,'J/(mol*K)')),
-    shortDesc = u"""Fitted from thermo library values""",
-    longDesc =
-u"""
-Calculated from my CBS-QB3 job.
-""",
-)
-
-entry(
     index = 0,
     label = "s3_5_6_ene",
     group = "OR{s3_5_6_ene_1, s3_5_6_ene_5}",
@@ -8892,7 +8866,6 @@ L1: PolycyclicRing
         L3: s3_5_5_diene
             L4: s3_5_5_diene_1_4
     L2: s3_5_6
-        L3: s3_5_6_ane_hetero_OO
         L3: s3_5_6_ane
         L3: s3_5_6_ene
             L4: s3_5_6_ene_1
