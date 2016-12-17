@@ -7184,7 +7184,7 @@ u"""
 entry(
     index = 161,
     label = "s3_5_6_ane",
-    group = 
+    group =
 """
 1   R!H u0 {3,S} {5,S} {6,S}
 2   R!H u0 {3,S} {4,S} {7,S}
@@ -7202,9 +7202,35 @@ entry(
         S298 = (196.089,'J/(mol*K)'),
     ),
     shortDesc = u"""Fitted from thermo library values""",
-    longDesc = 
+    longDesc =
 u"""
 Fitted from molecule s3_5_6_ane from Bicyclics_QM_190_isomorphic library.
+""",
+)
+
+entry(
+    index = 192,
+    label = "s3_5_6_ane_hetero_OO",
+    group =
+"""
+1   C u0 {3,S} {5,S} {6,S}
+2   C u0 {3,S} {4,S} {7,S}
+3   C u0 {1,S} {2,S}
+4   O u0 {2,S} {5,S}
+5   O u0 {1,S} {4,S}
+6   C u0 {1,S} {8,S}
+7   C u0 {2,S} {8,S}
+8 * C u0 {6,S} {7,S}
+""",
+    thermo = ThermoData(
+        Tdata=([300,400,500,600,800,1000,1500],'K'),
+        Cpdata=([-47.7149,-45.7412,-42.0746,-39.166,-33.1165,-26.6229,-14.3625],'J/(mol*K)'),
+        H298=(9273.17,'J/mol'),
+        S298=(211.387,'J/(mol*K)')),
+    shortDesc = u"""Fitted from thermo library values""",
+    longDesc =
+u"""
+Calculated from my CBS-QB3 job.
 """,
 )
 
@@ -7925,14 +7951,94 @@ entry(
 """,
     thermo = ThermoData(
         Tdata = ([300,400,500,600,800,1000,1500],'K'),
-        Cpdata = ([-6.91802,-7.05202,-6.84389,-6.18251,-4.08669,-1.82582,0.516336],'cal/(mol*K)'),
-        H298 = (-0.0011478,'kcal/mol'),
-        S298 = (47.7004,'cal/(mol*K)'),
+        Cpdata = ([-12,-11.01,-8.96,-6.42,-3.03,-2.4,0.05],'cal/(mol*K)'),
+        H298 = (7.4,'kcal/mol'),
+        S298 = (48.92,'cal/(mol*K)'),
     ),
     shortDesc = u"""""",
     longDesc = 
 u"""
 Wiberg, K. Angew. Chem., Int. Ed. Engl. 1986, 25, 312 1986 experimental S, Cp from PM7 calculation
+""",
+)
+
+entry(
+    index = 193,
+    label = "s4_6_6_ane_hetero_O_1",
+    group =
+"""
+1 * C u0 {3,S} {6,S} {8,S}
+2   C u0 {4,S} {5,S} {7,S}
+3   O u0 {1,S} {4,S}
+4   C u0 {2,S} {3,S}
+5   C u0 {2,S} {6,S}
+6   C u0 {1,S} {5,S}
+7   C u0 {2,S} {8,S}
+8   C u0 {1,S} {7,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-6.91802,-7.05202,-6.84389,-6.18251,-4.08669,-1.82582,0.516336],'cal/(mol*K)'),
+        H298 = (-0.0011478,'kcal/mol'),
+        S298 = (47.7004,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+From the cineole and R1-R4 CBS-QB3 calculations
+""",
+)
+
+entry(
+    index = 195,
+    label = "s4_6_6_ane_hetero_O_2",
+    group =
+"""
+1 * C u0 {3,S} {6,S} {8,S}
+2   C u0 {4,S} {5,S} {7,S}
+3   C u0 {1,S} {4,S}
+4   O u0 {2,S} {3,S}
+5   C u0 {2,S} {6,S}
+6   C u0 {1,S} {5,S}
+7   C u0 {2,S} {8,S}
+8   C u0 {1,S} {7,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-6.91802,-7.05202,-6.84389,-6.18251,-4.08669,-1.82582,0.516336],'cal/(mol*K)'),
+        H298 = (-0.0011478,'kcal/mol'),
+        S298 = (47.7004,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+From the cineole and R1-R4 CBS-QB3 calculations
+""",
+)
+
+entry(
+    index = 194,
+    label = "s4_6_6_ane_hetero_OO",
+    group =
+"""
+1 * C u0 {3,S} {6,S} {8,S}
+2   C u0 {4,S} {5,S} {7,S}
+3   O u0 {1,S} {4,S}
+4   O u0 {2,S} {3,S}
+5   C u0 {2,S} {6,S}
+6   C u0 {1,S} {5,S}
+7   C u0 {2,S} {8,S}
+8   C u0 {1,S} {7,S}
+""",
+    thermo = ThermoData(
+        Tdata=([300,400,500,600,800,1000,1500],'K'),
+        Cpdata=([-47.7009,-45.5242,-41.7086,-38.752,-32.7545,-26.3309,-14.2415],'J/(mol*K)'),
+        H298=(17055.2,'J/mol'),
+        S298=(211.34,'J/(mol*K)')),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+From my CBS-QB3 calculation
 """,
 )
 
@@ -8788,6 +8894,7 @@ L1: PolycyclicRing
         L3: s3_5_5_diene
             L4: s3_5_5_diene_1_4
     L2: s3_5_6
+        L3: s3_5_6_ane_hetero_OO
         L3: s3_5_6_ane
         L3: s3_5_6_ene
             L4: s3_5_6_ene_1
@@ -8818,6 +8925,9 @@ L1: PolycyclicRing
         L3: s3_6_7_diene
             L4: s3_6_7_diene_6_9-0
     L2: s4_6_6
+        L3: s4_6_6_ane_hetero_OO
+        L3: s4_6_6_ane_hetero_O_1
+        L3: s4_6_6_ane_hetero_O_2
         L3: s4_6_6_ane
     L2: s4_6_8
         L3: s4_6_8_ane
