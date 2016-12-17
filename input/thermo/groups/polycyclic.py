@@ -7977,15 +7977,14 @@ entry(
 8   C u0 {1,S} {7,S}
 """,
     thermo = ThermoData(
-        Tdata = ([300,400,500,600,800,1000,1500],'K'),
-        Cpdata = ([-6.91802,-7.05202,-6.84389,-6.18251,-4.08669,-1.82582,0.516336],'cal/(mol*K)'),
-        H298 = (-0.0011478,'kcal/mol'),
-        S298 = (47.7004,'cal/(mol*K)'),
-    ),
+        Tdata=([300,400,500,600,800,1000,1500],'K'),
+        Cpdata=([-48.9713,-47.148,-41.7965,-36.4966,-25.6172,-14.6013,-0.230842],'J/(mol*K)'),
+        H298=(-16807,'J/mol'),
+        S298=(206.921,'J/(mol*K)')),
     shortDesc = u"""""",
     longDesc =
 u"""
-From the cineole and R1-R4 CBS-QB3 calculations
+From Cineole CBS-QB3 calculation
 """,
 )
 
@@ -8004,15 +8003,14 @@ entry(
 8   C u0 {1,S} {7,S}
 """,
     thermo = ThermoData(
-        Tdata = ([300,400,500,600,800,1000,1500],'K'),
-        Cpdata = ([-6.91802,-7.05202,-6.84389,-6.18251,-4.08669,-1.82582,0.516336],'cal/(mol*K)'),
-        H298 = (-0.0011478,'kcal/mol'),
-        S298 = (47.7004,'cal/(mol*K)'),
-    ),
+        Tdata=([300,400,500,600,800,1000,1500],'K'),
+        Cpdata=([-48.9713,-47.148,-41.7965,-36.4966,-25.6172,-14.6013,-0.230842],'J/(mol*K)'),
+        H298=(-16807,'J/mol'),
+        S298=(206.921,'J/(mol*K)')),
     shortDesc = u"""""",
     longDesc =
 u"""
-From the cineole and R1-R4 CBS-QB3 calculations
+From Cineole CBS-QB3 calculation
 """,
 )
 
