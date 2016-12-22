@@ -7209,6 +7209,87 @@ Fitted from molecule s3_5_6_ane from Bicyclics_QM_190_isomorphic library.
 )
 
 entry(
+    index = 196,
+    label = "s3_5_6_ane_hetero_O_1",
+    group =
+"""
+1   R!H u0 {3,S} {5,S} {6,S}
+2   R!H u0 {3,S} {4,S} {7,S}
+3   R!H u0 {1,S} {2,S}
+4   R!H u0 {2,S} {5,S}
+5   O u0 {1,S} {4,S}
+6   R!H u0 {1,S} {8,S}
+7   R!H u0 {2,S} {8,S}
+8 * R!H u0 {6,S} {7,S}
+""",
+    thermo = ThermoData(
+        Tdata=([300,400,500,600,800,1000,1500],'K'),
+        Cpdata=([-49.5772,-45.2254,-38.9842,-34.0806,-26.2113,-19.1964,-8.09629],'J/(mol*K)'),
+        H298=(39921.2,'J/mol'),
+        S298=(197.515,'J/(mol*K)')
+    ),
+    shortDesc = u"""Fitted from thermo library values""",
+    longDesc =
+u"""
+From my CBS-QB3 calculation.
+""",
+)
+
+entry(
+    index = 197,
+    label = "s3_5_6_ane_hetero_O_2",
+    group =
+"""
+1   R!H u0 {3,S} {5,S} {6,S}
+2   R!H u0 {3,S} {4,S} {7,S}
+3   R!H u0 {1,S} {2,S}
+4   O u0 {2,S} {5,S}
+5   R!H u0 {1,S} {4,S}
+6   R!H u0 {1,S} {8,S}
+7   R!H u0 {2,S} {8,S}
+8 * R!H u0 {6,S} {7,S}
+""",
+    thermo = ThermoData(
+        Tdata=([300,400,500,600,800,1000,1500],'K'),
+        Cpdata=([-49.5772,-45.2254,-38.9842,-34.0806,-26.2113,-19.1964,-8.09629],'J/(mol*K)'),
+        H298=(39921.2,'J/mol'),
+        S298=(197.515,'J/(mol*K)')
+    ),
+    shortDesc = u"""Fitted from thermo library values""",
+    longDesc =
+u"""
+From my CBS-QB3 calculation.
+""",
+)
+
+entry(
+    index = 198,
+    label = "s3_5_6_ane_hetero_OO",
+    group =
+"""
+1   R!H u0 {3,S} {5,S} {6,S}
+2   R!H u0 {3,S} {4,S} {7,S}
+3   R!H u0 {1,S} {2,S}
+4   O u0 {2,S} {5,S}
+5   O u0 {1,S} {4,S}
+6   R!H u0 {1,S} {8,S}
+7   R!H u0 {2,S} {8,S}
+8 * R!H u0 {6,S} {7,S}
+""",
+    thermo = ThermoData(
+        Tdata=([300,400,500,600,800,1000,1500],'K'),
+        Cpdata=([-48.8349,-46.0622,-41.9256,-38.936,-32.9785,-26.5469,-14.3325],'J/(mol*K)'),
+        H298=(45268.6,'J/mol'),
+        S298=(204.174,'J/(mol*K)')
+    ),
+    shortDesc = u"""Fitted from thermo library values""",
+    longDesc =
+u"""
+From my CBS-QB3 calculation.
+""",
+)
+
+entry(
     index = 0,
     label = "s3_5_6_ene",
     group = "OR{s3_5_6_ene_1, s3_5_6_ene_5}",
@@ -8866,6 +8947,9 @@ L1: PolycyclicRing
         L3: s3_5_5_diene
             L4: s3_5_5_diene_1_4
     L2: s3_5_6
+        L3: s3_5_6_ane_hetero_OO
+        L3: s3_5_6_ane_hetero_O_1
+        L3: s3_5_6_ane_hetero_O_2
         L3: s3_5_6_ane
         L3: s3_5_6_ene
             L4: s3_5_6_ene_1
