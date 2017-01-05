@@ -7209,8 +7209,8 @@ Fitted from molecule s3_5_6_ane from Bicyclics_QM_190_isomorphic library.
 )
 
 entry(
-    index = 196,
-    label = "s3_5_6_ane_hetero_O_1",
+    index = 195,
+    label = "s3_5_6_ane_hetero_O",
     group =
 """
 1   R!H u0 {3,S} {5,S} {6,S}
@@ -7236,34 +7236,7 @@ From my CBS-QB3 calculation.
 )
 
 entry(
-    index = 197,
-    label = "s3_5_6_ane_hetero_O_2",
-    group =
-"""
-1   R!H u0 {3,S} {5,S} {6,S}
-2   R!H u0 {3,S} {4,S} {7,S}
-3   R!H u0 {1,S} {2,S}
-4   O u0 {2,S} {5,S}
-5   R!H u0 {1,S} {4,S}
-6   R!H u0 {1,S} {8,S}
-7   R!H u0 {2,S} {8,S}
-8 * R!H u0 {6,S} {7,S}
-""",
-    thermo = ThermoData(
-        Tdata=([300,400,500,600,800,1000,1500],'K'),
-        Cpdata=([-49.5772,-45.2254,-38.9842,-34.0806,-26.2113,-19.1964,-8.09629],'J/(mol*K)'),
-        H298=(39921.2,'J/mol'),
-        S298=(197.515,'J/(mol*K)')
-    ),
-    shortDesc = u"""Fitted from thermo library values""",
-    longDesc =
-u"""
-From my CBS-QB3 calculation.
-""",
-)
-
-entry(
-    index = 198,
+    index = 196,
     label = "s3_5_6_ane_hetero_OO",
     group =
 """
@@ -8019,39 +7992,13 @@ Wiberg, K. Angew. Chem., Int. Ed. Engl. 1986, 25, 312 1986 experimental S, Cp fr
 
 entry(
     index = 193,
-    label = "s4_6_6_ane_hetero_O_1",
+    label = "s4_6_6_ane_hetero_O",
     group =
 """
 1 * C u0 {3,S} {6,S} {8,S}
 2   C u0 {4,S} {5,S} {7,S}
 3   O u0 {1,S} {4,S}
 4   C u0 {2,S} {3,S}
-5   C u0 {2,S} {6,S}
-6   C u0 {1,S} {5,S}
-7   C u0 {2,S} {8,S}
-8   C u0 {1,S} {7,S}
-""",
-    thermo = ThermoData(
-        Tdata=([300,400,500,600,800,1000,1500],'K'),
-        Cpdata=([-48.9713,-47.148,-41.7965,-36.4966,-25.6172,-14.6013,-0.230842],'J/(mol*K)'),
-        H298=(-16807,'J/mol'),
-        S298=(206.921,'J/(mol*K)')),
-    shortDesc = u"""""",
-    longDesc =
-u"""
-From Cineole CBS-QB3 calculation
-""",
-)
-
-entry(
-    index = 195,
-    label = "s4_6_6_ane_hetero_O_2",
-    group =
-"""
-1 * C u0 {3,S} {6,S} {8,S}
-2   C u0 {4,S} {5,S} {7,S}
-3   C u0 {1,S} {4,S}
-4   O u0 {2,S} {3,S}
 5   C u0 {2,S} {6,S}
 6   C u0 {1,S} {5,S}
 7   C u0 {2,S} {8,S}
@@ -8947,10 +8894,9 @@ L1: PolycyclicRing
         L3: s3_5_5_diene
             L4: s3_5_5_diene_1_4
     L2: s3_5_6
-        L3: s3_5_6_ane_hetero_OO
-        L3: s3_5_6_ane_hetero_O_1
-        L3: s3_5_6_ane_hetero_O_2
         L3: s3_5_6_ane
+            L4: s3_5_6_ane_hetero_OO
+            L4: s3_5_6_ane_hetero_O
         L3: s3_5_6_ene
             L4: s3_5_6_ene_1
             L4: s3_5_6_ene_5
@@ -8980,10 +8926,9 @@ L1: PolycyclicRing
         L3: s3_6_7_diene
             L4: s3_6_7_diene_6_9-0
     L2: s4_6_6
-        L3: s4_6_6_ane_hetero_OO
-        L3: s4_6_6_ane_hetero_O_1
-        L3: s4_6_6_ane_hetero_O_2
         L3: s4_6_6_ane
+            L4: s4_6_6_ane_hetero_OO
+            L4: s4_6_6_ane_hetero_O
     L2: s4_6_8
         L3: s4_6_8_ane
         L3: s4_6_8_ene
