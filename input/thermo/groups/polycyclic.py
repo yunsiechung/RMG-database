@@ -7213,14 +7213,14 @@ entry(
     label = "s3_5_6_ane_hetero_O",
     group =
 """
-1   R!H u0 {3,S} {5,S} {6,S}
-2   R!H u0 {3,S} {4,S} {7,S}
-3   R!H u0 {1,S} {2,S}
-4   R!H u0 {2,S} {5,S}
+1   C u0 {3,S} {5,S} {6,S}
+2   C u0 {3,S} {4,S} {7,S}
+3   C u0 {1,S} {2,S}
+4   C u0 {2,S} {5,S}
 5   O u0 {1,S} {4,S}
-6   R!H u0 {1,S} {8,S}
-7   R!H u0 {2,S} {8,S}
-8 * R!H u0 {6,S} {7,S}
+6   C u0 {1,S} {8,S}
+7   C u0 {2,S} {8,S}
+8 * C u0 {6,S} {7,S}
 """,
     thermo = ThermoData(
         Tdata=([300,400,500,600,800,1000,1500],'K'),
@@ -7240,14 +7240,14 @@ entry(
     label = "s3_5_6_ane_hetero_OO",
     group =
 """
-1   R!H u0 {3,S} {5,S} {6,S}
-2   R!H u0 {3,S} {4,S} {7,S}
-3   R!H u0 {1,S} {2,S}
+1   C u0 {3,S} {5,S} {6,S}
+2   C u0 {3,S} {4,S} {7,S}
+3   C u0 {1,S} {2,S}
 4   O u0 {2,S} {5,S}
 5   O u0 {1,S} {4,S}
-6   R!H u0 {1,S} {8,S}
-7   R!H u0 {2,S} {8,S}
-8 * R!H u0 {6,S} {7,S}
+6   C u0 {1,S} {8,S}
+7   C u0 {2,S} {8,S}
+8 * C u0 {6,S} {7,S}
 """,
     thermo = ThermoData(
         Tdata=([300,400,500,600,800,1000,1500],'K'),
