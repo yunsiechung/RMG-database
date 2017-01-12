@@ -7209,7 +7209,7 @@ Fitted from molecule s3_5_6_ane from Bicyclics_QM_190_isomorphic library.
 )
 
 entry(
-    index = 195,
+    index = 194,
     label = "s3_5_6_ane_hetero_O",
     group =
 """
@@ -7224,9 +7224,9 @@ entry(
 """,
     thermo = ThermoData(
         Tdata=([300,400,500,600,800,1000,1500],'K'),
-        Cpdata=([-49.5772,-45.2254,-38.9842,-34.0806,-26.2113,-19.1964,-8.09629],'J/(mol*K)'),
-        H298=(39921.2,'J/mol'),
-        S298=(197.515,'J/(mol*K)')
+        Cpdata=([-48.1208,-43.3576,-36.967,-32.094,-24.3395,-17.5001,-6.91253],'J/(mol*K)'),
+        H298=(23771.6,'J/mol'),
+        S298=(198.394,'J/(mol*K)')
     ),
     shortDesc = u"""Fitted from thermo library values""",
     longDesc =
@@ -7236,7 +7236,7 @@ From my CBS-QB3 calculation.
 )
 
 entry(
-    index = 196,
+    index = 195,
     label = "s3_5_6_ane_hetero_OO",
     group =
 """
@@ -7251,9 +7251,9 @@ entry(
 """,
     thermo = ThermoData(
         Tdata=([300,400,500,600,800,1000,1500],'K'),
-        Cpdata=([-48.8349,-46.0622,-41.9256,-38.936,-32.9785,-26.5469,-14.3325],'J/(mol*K)'),
-        H298=(45268.6,'J/mol'),
-        S298=(204.174,'J/(mol*K)')
+        Cpdata=([-47.4839,-44.3752,-40.1496,-37.211,-31.3655,-25.0969,-13.3325],'J/(mol*K)'),
+        H298=(29119.9,'J/mol'),
+        S298=(205.027,'J/(mol*K)')
     ),
     shortDesc = u"""Fitted from thermo library values""",
     longDesc =
@@ -7991,7 +7991,7 @@ Wiberg, K. Angew. Chem., Int. Ed. Engl. 1986, 25, 312 1986 experimental S, Cp fr
 )
 
 entry(
-    index = 193,
+    index = 192,
     label = "s4_6_6_ane_hetero_O",
     group =
 """
@@ -8012,12 +8012,12 @@ entry(
     shortDesc = u"""""",
     longDesc =
 u"""
-From Cineole CBS-QB3 calculation
+Fitted from CBS-QB3 calculation of Cineole
 """,
 )
 
 entry(
-    index = 194,
+    index = 193,
     label = "s4_6_6_ane_hetero_OO",
     group =
 """
@@ -8032,13 +8032,13 @@ entry(
 """,
     thermo = ThermoData(
         Tdata=([300,400,500,600,800,1000,1500],'K'),
-        Cpdata=([-47.7009,-45.5242,-41.7086,-38.752,-32.7545,-26.3309,-14.2415],'J/(mol*K)'),
+        Cpdata=([-46.3919,-44.0812,-40.3076,-37.437,-31.5025,-25.1749,-13.3655],'J/(mol*K)'),
         H298=(253.175,'J/mol'),
-        S298=(211.34,'J/(mol*K)')),
+        S298=(212.248,'J/(mol*K)')),
     shortDesc = u"""""",
     longDesc =
 u"""
-From my CBS-QB3 calculation
+From CBS-QB3 calculation
 """,
 )
 
