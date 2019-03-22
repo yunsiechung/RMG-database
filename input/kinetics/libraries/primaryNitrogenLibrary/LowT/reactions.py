@@ -36,7 +36,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 p. 269
 T range: 300-1000 K (also available at 1000-3000 K)
-calculations done at the CCSD(T)//BHandHLYP/6-311þþG(3df,2p) level of theoty
+calculations done at the CCSD(T)//BHandHLYP/6-311xxG(3df,2p) level of theoty
 Pressure independent at least up to 100 atm
 
 A different rate for the same reaction is available from the same author (M.C. Lin) published in the same year...: [Lin2014a]

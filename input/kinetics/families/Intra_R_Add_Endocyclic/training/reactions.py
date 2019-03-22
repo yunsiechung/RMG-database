@@ -17058,7 +17058,7 @@ entry(
     longDesc = 
 u"""
 Using CanTherm to calculate TST rates from the PES at the G2M(MP2)//B3LYP/6-311++G** level of theory
-The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861–1869,
+The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861x1869,
 where only 1500, 2000, 2500 K rates were reported.
 """,
 )
@@ -17081,7 +17081,7 @@ entry(
     longDesc = 
 u"""
 Using CanTherm to calculate TST rates from the PES at the G2M(MP2)//B3LYP/6-311++G** level of theory
-The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861–1869,
+The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861x1869,
 where only 1500, 2000, 2500 K rates were reported.
 """,
 )
@@ -17104,7 +17104,7 @@ entry(
     longDesc = 
 u"""
 Using CanTherm to calculate TST rates from the PES at the G2M(MP2)//B3LYP/6-311++G** level of theory
-The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861–1869,
+The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861x1869,
 where only 1500, 2000, 2500 K rates were reported.
 """,
 )
@@ -17127,7 +17127,7 @@ entry(
     longDesc = 
 u"""
 Using CanTherm to calculate TST rates from the PES at the G2M(MP2)//B3LYP/6-311++G** level of theory
-The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861–1869,
+The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861x1869,
 where only 1500, 2000, 2500 K rates were reported.
 """,
 )
@@ -17150,7 +17150,7 @@ entry(
     longDesc = 
 u"""
 Using CanTherm to calculate TST rates from the PES at the G2M(MP2)//B3LYP/6-311++G** level of theory
-The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861–1869,
+The rates have been validated by the rates reported in Proceedings of the Combustion Institute 35 (2015) 1861x1869,
 where only 1500, 2000, 2500 K rates were reported.
 """,
 )

@@ -10,17 +10,17 @@ Decomposition of the initial adduct via spin-allowed reaction channels on the tr
 with intersystem crossing (ISC) and a set of spin-forbidden reaction channels on the ground-state singlet
 surface. This library describes product branching ratios based on the following publication:
 
-X. Li, A.W. Jasper, J. Zádor, J.A. Miller, S.J. Klippenstein,
+X. Li, A.W. Jasper, J. Zxdor, J.A. Miller, S.J. Klippenstein,
 Theoretical kinetics of O + C2H4,
-Proceedings of the Combustion Institute 36 (2017) 219–227
+Proceedings of the Combustion Institute 36 (2017) 219x227
 http://dx.doi.org/10.1016/j.proci.2016.06.053
 
 Several different methods were used:
 CCSDT(Q)/cc-pVDZ//CCSD(T)/cc-pVTZ
 For barrierless reactions on the spin allowed surface CASPT2(2e,2o)/cc-pVTZ was used.
 For reaction with barriers on the spin allowed surface CCSD(T)/CBS//B2PLYPD3/cc-pVTZ was used.
-The total ISC rate was calculated using Landau–Zener statistical theory
-non-statistical “prompt” branching in the dynamics immediately following ISC was predicted using
+The total ISC rate was calculated using LandauxZener statistical theory
+non-statistical xpromptx branching in the dynamics immediately following ISC was predicted using
 direct classical trajectories and the CASPT2(2e,2o)/cc-pVDZ surface.
 
 Pressure dependence in the product branching fractions and the potential formation of stabilized products were

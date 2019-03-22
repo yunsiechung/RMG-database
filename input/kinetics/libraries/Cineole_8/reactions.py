@@ -568,7 +568,7 @@ entry(
     longDesc =
 u"""
 From eqn. (7) by Ratkiewicz (2011). Reaction 3: CC.CC -> CH3 + C=CC
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -613,7 +613,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -770,7 +770,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -793,7 +793,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -805,7 +805,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -1101,7 +1101,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -1124,7 +1124,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -1136,7 +1136,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -1170,7 +1170,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
@@ -1287,7 +1287,7 @@ entry(
     longDesc =
 u"""
 From eqn. (8) by Ratkiewicz (2011). Reaction 3: CC(C)C. -> CH3 + CC=C
-Phys. Chem. Chem. Phys., 2011, 13, 15037–15046
+Phys. Chem. Chem. Phys., 2011, 13, 15037x15046
 """,
 )
 
