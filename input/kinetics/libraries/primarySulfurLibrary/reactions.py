@@ -27,7 +27,7 @@ Reference legend:
 [Haynes2013] Chenlai (Ryan) Zhou, Karina Sendt, Brian S. Haynes, Proceedings of the Combustion Institute 2013, 34(1), 625-632, doi: 10.1016/j.proci.2012.05.083
 [Lin2003a] C-W. Lu, Y-J. Wu, Y-P. Lee, R.S. Zhu, M.C. Lin, J. Phys. Chem. A, 2003, 107(50), 11020-11029, doi: 10.1021/jp036025c
 [Lin2004] C-W. Lu, Y-J. Wu, Y-P. Lee, R.S. Zhu, M.C. Lin, J. Chem. Phys., 2004, 121(17), 8271-8278, doi: 10.1063/1.1792611
-[Marshall1995] A. Goumri, D. Laakso, J‐D.R. Rocha, C.E. Smith, P. Marshall, J. Chem. Phys., 1995, 102, 161-169, doi: 10.1063/1.469387
+[Marshall1995] A. Goumri, D. Laakso, JxD.R. Rocha, C.E. Smith, P. Marshall, J. Chem. Phys., 1995, 102, 161-169, doi: 10.1063/1.469387
 [Marshall1999a] A. Goumri, J-D.R. Rocha, D. Laakso, C.E. Smith, P. Marshall, J. Phys. Chem. A, 1999, 103(51), 11328-11335 doi: 10.1021/jp9924070
 [Marshall1999b] J. Peng, X. Hu, P. Marshall, J. Phys. Chem. A, 1999, 103, 5307-5311, doi: 10.1021/jp984242l
 [Marshall2004] A. Goumri, D.D. Shao, P. Marshall, J. Chem. Phys., 2004, 121, 9999, doi: 10.1063/1.1806419
@@ -673,7 +673,7 @@ Also available (in reverse) from [Somnitz2004]:
     kinetics = Arrhenius(A=(4.34e+14, 's^-1'), n=0, Ea=(25832, 'cal/mol'), T0=(1, 'K'),
                          Tmin=(150, 'K'), Tmax=(1500, 'K')),
     k_dec_inf, p. 3847 in Fig. 2
-    calculated at the B3LYP/apVTZþ1//UB3LYP/apVTZþ1 level of theory
+    calculated at the B3LYP/apVTZx1//UB3LYP/apVTZx1 level of theory
 
 Also available from doi: 10.1039/A901596E
 Also available from doi: 10.1039/B317055A

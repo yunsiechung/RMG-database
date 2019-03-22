@@ -50,8 +50,8 @@ Reference legend:
 [DeRuyck2001] A.A. Konnov, J. De Ruyck, Comb. Flame, 2001, 125(4), 1258-1264, doi: 10.1016/S0010-2180(01)00250-4
 [Flower1977] W. L. Flower , R. K. Hanson, c. H. Kruger, Comb. Sci. Tech., 1977, 15(3-4), 115-128, doi: 10.1080/00102207708946777
 [Friedrichs2011] J. Dammeier, G. Friedrichs, J. Phys. Chem. A, 2011, 115, 14382-14390, doi: 10.1021/jp208715c
-[Friedrichs2012] J. Dammeier, N. Faßheber, G. Friedrichs, Phys. Chem. Chem. Phys., 2012, 15, 1030-1037, doi: 10.1039/C1CP22123J
-[Friedrichs2015]  N. Faßheber,  N. Lamoureux,  G. Friedrichs, Phys. Chem. Chem. Phys., 2015, 17, 15876-15886, doi: 10.1039/C5CP01414J
+[Friedrichs2012] J. Dammeier, N. Faxheber, G. Friedrichs, Phys. Chem. Chem. Phys., 2012, 15, 1030-1037, doi: 10.1039/C1CP22123J
+[Friedrichs2015]  N. Faxheber,  N. Lamoureux,  G. Friedrichs, Phys. Chem. Chem. Phys., 2015, 17, 15876-15886, doi: 10.1039/C5CP01414J
 [GlarGim] (RMG's Nitrogen_Glarborg_Gimenez_et_al library) Gimenez Lopeza et al., Proceedings of the Combustion Institute, 2009, 32(1), 367-375, doi: 10.1016/j.proci.2008.06.188
 [GlarZha] (RMG's Nitrogen_Glarborg_Zhang_et_al library) Kuiwen Zhang et al. Proceedings of the Combustion Institute, 2013, 34, 617-624, doi: 10.1016/j.proci.2012.06.010
 [Green2014] K. Prozument, Y.V. Suleimanov, B. Buesser, J.M. Oldham, W.H. Green, A.G. Suits, R.W. Field, J. Phys. Chem. Lett. 2014, 5(21), 3641-3648, doi: 10.1021/jz501758p
@@ -475,7 +475,7 @@ The sister reaction "C2O + N2 <=> CNN(Singlet) + CO"
 has a rate lower or equal to 1.75e+12exp(33.2 kcal/mol/RT)
 formation of NCO + CN and 1CNN/3NCN + CO are too small to be important in the temperature range of 800-3000 K
 Predicted values imply that C2O + N2 may not compete with the CH + N2 reaction and
-thus the reaction is not expected to be important for the ‘prompt-NO’ formation in combustion.
+thus the reaction is not expected to be important for the xprompt-NOx formation in combustion.
 """,
 )
 
@@ -779,7 +779,7 @@ This path (producing NCO+NO) is faster than the competing path (producing CNO+NO
 T range: 1000-3000 K
 The stationary points of species on the low-energy paths were also examined with the third-order Rayleigh-
 Schrodinger perturbation (CASPT3) and the multireference configuration interaction including
-Davidson’s correction for higher excitations (MRCI + Q) theories at the CASPT3 (4, 4)/aug-cc-
+Davidsonxs correction for higher excitations (MRCI + Q) theories at the CASPT3 (4, 4)/aug-cc-
 PVTZ//CASSCF(4,4)/cc-pVDZ(4,4) and MRCI+Q(4,4)/aug-cc-PVTZ //CASSCF (4, 4)/cc-pVDZ(4, 4)
 levels. The rate constants have been calculated based on the energies obtained at the G2M(CC1) level.
 """,
@@ -798,7 +798,7 @@ k2
 T range: 1000-3000 K
 The stationary points of species on the low-energy paths were also examined with the third-order Rayleigh-
 Schrodinger perturbation (CASPT3) and the multireference configuration interaction including
-Davidson’s correction for higher excitations (MRCI + Q) theories at the CASPT3 (4, 4)/aug-cc-
+Davidsonxs correction for higher excitations (MRCI + Q) theories at the CASPT3 (4, 4)/aug-cc-
 PVTZ//CASSCF(4,4)/cc-pVDZ(4,4) and MRCI+Q(4,4)/aug-cc-PVTZ //CASSCF (4, 4)/cc-pVDZ(4, 4)
 levels. The rate constants have been calculated based on the energies obtained at the G2M(CC1) level.
 """,
@@ -1957,7 +1957,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 p. 264
 Bath gas: Ar
-calculations done at the RCCSD(T)/6-311þG(3df,2p)//B3LYP/6-311G(d,p) level of theoty
+calculations done at the RCCSD(T)/6-311xG(3df,2p)//B3LYP/6-311G(d,p) level of theoty
 Only High Pressure Limit rate was taken low limit and 1 atm rate are also available from the same source
 """,
 )
@@ -1976,7 +1976,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 p. 265
 Bath gas: Ar
-calculations done at the UCCSD(T)/CBS//UB3LYP/6-311þþG(3df,2p) level of theoty
+calculations done at the UCCSD(T)/CBS//UB3LYP/6-311xxG(3df,2p) level of theoty
 Only High Pressure Limit rate was taken low limit and 1 atm rate are also available from the same source
 """,
 )
@@ -1995,7 +1995,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 p. 265
 Bath gas: Ar
-calculations done at the UCCSD(T)/CBS//UB3LYP/6-311þþG(3df,2p) level of theoty
+calculations done at the UCCSD(T)/CBS//UB3LYP/6-311xxG(3df,2p) level of theoty
 Only High Pressure Limit rate was taken low limit and 1 atm rate are also available from the same source
 """,
 )
@@ -2010,7 +2010,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 p. 267
-calculations done at the G2M(CC2)//B3LYP/6-311þþG(3df,2p) level of theoty
+calculations done at the G2M(CC2)//B3LYP/6-311xxG(3df,2p) level of theoty
 Also available from [Lin2014a], calculated at the CCSD(T)/CBS//CCSD level of theoty:
     kinetics = Arrhenius(A=(8.25e+01, 'cm^3/(mol*s)'), n=3.13, Ea=(8863, 'cal/mol'), T0=(1, 'K')),
 """,
@@ -2027,7 +2027,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 p. 269
-calculations done at the CCSD(T)//BHandHLYP/6-311þþG(3df,2p) level of theoty
+calculations done at the CCSD(T)//BHandHLYP/6-311xxG(3df,2p) level of theoty
 Pressure independent at least up to 100 atm
 A different rate for the same reaction is available from the same author (M.C. Lin) published in the same year...: [Lin2014a]
 But this [Lin2014a] rate is a factor of 3 lower at 1500 K:
@@ -2050,7 +2050,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 p. 269
-calculations done at the CCSD(T)//BHandHLYP/6-311þþG(3df,2p) level of theoty
+calculations done at the CCSD(T)//BHandHLYP/6-311xxG(3df,2p) level of theoty
 Pressure independent at least up to 100 atm
 The Low T (300-1000 K) rate is:
     kinetics = Arrhenius(A=(1.10e+18, 'cm^3/(mol*s)'), n=-1.84, Ea=(-642, 'cal/mol'), T0=(1, 'K')),
@@ -2113,7 +2113,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 p. 274
-calculations done at the CCSD(T)/6-311þG(3df,2p) level of theoty
+calculations done at the CCSD(T)/6-311xG(3df,2p) level of theoty
 """,
 )
 
@@ -2182,7 +2182,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 k8, p. 281
-calculations done at the CCSD(T)/6-311þþG(3df,2p)//B3LYP/6-311þþG(3df,2p) level of theoty
+calculations done at the CCSD(T)/6-311xxG(3df,2p)//B3LYP/6-311xxG(3df,2p) level of theoty
 """,
 )
 
@@ -2197,7 +2197,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 k9, p. 281
-calculations done at the CCSD(T)/6-311þþG(3df,2p)//B3LYP/6-311þþG(3df,2p) level of theoty
+calculations done at the CCSD(T)/6-311xxG(3df,2p)//B3LYP/6-311xxG(3df,2p) level of theoty
 """,
 )
 
@@ -2212,7 +2212,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 k10, p. 281
-calculations done at the CCSD(T)/6-311þþG(3df,2p)//B3LYP/6-311þþG(3df,2p) level of theoty
+calculations done at the CCSD(T)/6-311xxG(3df,2p)//B3LYP/6-311xxG(3df,2p) level of theoty
 """,
 )
 
@@ -2227,7 +2227,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 k11, p. 281
-calculations done at the CCSD(T)/6-311þþG(3df,2p)//B3LYP/6-311þþG(3df,2p) level of theoty
+calculations done at the CCSD(T)/6-311xxG(3df,2p)//B3LYP/6-311xxG(3df,2p) level of theoty
 """,
 )
 
@@ -2244,7 +2244,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 k13, p. 284
 T range: 300-3000 K, P = 1 atm
-calculations done at the CCSD(T)/6-311þG(3df,2p)//CCSD/6-311þþG(d,p) level of theoty
+calculations done at the CCSD(T)/6-311xG(3df,2p)//CCSD/6-311xxG(d,p) level of theoty
 """,
 )
 
@@ -2261,7 +2261,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 k15, p. 284
 T range: 300-3000 K, P = 1 atm
-calculations done at the CCSD(T)/6-311þG(3df,2p)//CCSD/6-311þþG(d,p) level of theoty
+calculations done at the CCSD(T)/6-311xG(3df,2p)//CCSD/6-311xxG(d,p) level of theoty
 """,
 )
 
@@ -2278,7 +2278,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 k16, p. 284
 T range: 300-3000 K, P = 1 atm
-calculations done at the CCSD(T)/6-311þG(3df,2p)//CCSD/6-311þþG(d,p) level of theoty
+calculations done at the CCSD(T)/6-311xG(3df,2p)//CCSD/6-311xxG(d,p) level of theoty
 """,
 )
 
@@ -2297,7 +2297,7 @@ entry(
 u"""
 Part of the "N2H4 + N2O4" subset
 p. 287
-calculations done at the CCSD(T)/6-311þþG(3df,2p)//B3LYP/6-311þþG(3df,2p) level of theoty
+calculations done at the CCSD(T)/6-311xxG(3df,2p)//B3LYP/6-311xxG(3df,2p) level of theoty
 conformer-dup: rates summed for trans/cis-N2H2
 """,
 )
@@ -2314,7 +2314,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 k19, p. 288
 T range: 300-2500 K
-calculations done at the B3LYP/6-311þþG(3df,2p) level
+calculations done at the B3LYP/6-311xxG(3df,2p) level
 """,
 )
 
@@ -2330,7 +2330,7 @@ u"""
 Part of the "N2H4 + N2O4" subset
 k20, p. 288
 T range: 300-2500 K
-calculations done at the B3LYP/6-311þþG(3df,2p) level
+calculations done at the B3LYP/6-311xxG(3df,2p) level
 """,
 )
 
@@ -3166,9 +3166,9 @@ Part of the "Thermal de-NOx" mechanism
 k1a 3 on p. 9019
 T range: 300-2000 K
 calculations done at the RQCISD(T)/CBS(QZ,5Z)//B3LYP/6-311++G(d,p) level of theory
-+UCCSD(T)/cc-pVTZ rovibrational analysis with UCCSD-(T)/CBS(aug-cc-pVQZ′,aug-cc-pV5Z′) energies,
-CCSDT(Q)/cc-pVDZ higher order corrections, CCSD(T,full)/CBS-(TZ,QZ) core−valence corrections,
-CI/aug-cc-pcVTZ relativistic corrections, HF/cc-pVTZ diagonal Born−Oppenheimer corrections,
++UCCSD(T)/cc-pVTZ rovibrational analysis with UCCSD-(T)/CBS(aug-cc-pVQZx,aug-cc-pV5Zx) energies,
+CCSDT(Q)/cc-pVDZ higher order corrections, CCSD(T,full)/CBS-(TZ,QZ) corexvalence corrections,
+CI/aug-cc-pcVTZ relativistic corrections, HF/cc-pVTZ diagonal BornxOppenheimer corrections,
 and B3LYP/6-311++G(d,p) anharmonic ZPE corrections
 """,
 )
@@ -3185,9 +3185,9 @@ Part of the "Thermal de-NOx" mechanism
 k1b 3 on p. 9019
 T range: 300-2000 K
 calculations done at the RQCISD(T)/CBS(QZ,5Z)//B3LYP/6-311++G(d,p) level of theory
-+UCCSD(T)/cc-pVTZ rovibrational analysis with UCCSD-(T)/CBS(aug-cc-pVQZ′,aug-cc-pV5Z′) energies,
-CCSDT(Q)/cc-pVDZ higher order corrections, CCSD(T,full)/CBS-(TZ,QZ) core−valence corrections,
-CI/aug-cc-pcVTZ relativistic corrections, HF/cc-pVTZ diagonal Born−Oppenheimer corrections,
++UCCSD(T)/cc-pVTZ rovibrational analysis with UCCSD-(T)/CBS(aug-cc-pVQZx,aug-cc-pV5Zx) energies,
+CCSDT(Q)/cc-pVDZ higher order corrections, CCSD(T,full)/CBS-(TZ,QZ) corexvalence corrections,
+CI/aug-cc-pcVTZ relativistic corrections, HF/cc-pVTZ diagonal BornxOppenheimer corrections,
 and B3LYP/6-311++G(d,p) anharmonic ZPE corrections
 """,
 )
@@ -3210,9 +3210,9 @@ Part of the "Thermal de-NOx" mechanism
 k1c + k1d 3 on p. 9019
 T range: 300-2000 K
 calculations done at the RQCISD(T)/CBS(QZ,5Z)//B3LYP/6-311++G(d,p) level of theory
-+UCCSD(T)/cc-pVTZ rovibrational analysis with UCCSD-(T)/CBS(aug-cc-pVQZ′,aug-cc-pV5Z′) energies,
-CCSDT(Q)/cc-pVDZ higher order corrections, CCSD(T,full)/CBS-(TZ,QZ) core−valence corrections,
-CI/aug-cc-pcVTZ relativistic corrections, HF/cc-pVTZ diagonal Born−Oppenheimer corrections,
++UCCSD(T)/cc-pVTZ rovibrational analysis with UCCSD-(T)/CBS(aug-cc-pVQZx,aug-cc-pV5Zx) energies,
+CCSDT(Q)/cc-pVDZ higher order corrections, CCSD(T,full)/CBS-(TZ,QZ) corexvalence corrections,
+CI/aug-cc-pcVTZ relativistic corrections, HF/cc-pVTZ diagonal BornxOppenheimer corrections,
 and B3LYP/6-311++G(d,p) anharmonic ZPE corrections
 conformer-dup: cis/trans-HNNO
 """,
@@ -3672,7 +3672,7 @@ u"""
 Part of the "NOx" subset
 T range: 200-3000 K
 k1, p. 189
-calculations done at the G2M//B3LYP/6−311+G(d,p) and G2M//MPW1PW91/6−311+G(3df,2p) levels of theory
+calculations done at the G2M//B3LYP/6x311+G(d,p) and G2M//MPW1PW91/6x311+G(3df,2p) levels of theory
 * There are two other pathways for the formation of these products, this is the fastest one. k_tot was also given in the paper.
 Added as a training reaction to H_Abstraction
 """,
@@ -3689,7 +3689,7 @@ u"""
 Part of the "NOx" subset
 T range: 200-3000 K
 k2, p. 189
-calculations done at the G2M//B3LYP/6−311+G(d,p) and G2M//MPW1PW91/6−311+G(3df,2p) levels of theory
+calculations done at the G2M//B3LYP/6x311+G(d,p) and G2M//MPW1PW91/6x311+G(3df,2p) levels of theory
 """,
 )
 

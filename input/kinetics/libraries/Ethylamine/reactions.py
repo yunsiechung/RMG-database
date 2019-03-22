@@ -13,7 +13,7 @@ CBS-QB3 for energy barriers, B3LYP/6-311G(2d,d,p) for partition functions, hybri
 Kinetic data for reactions marked as `MA` (NCC + H/CH3/NH2) were adopted from the literature:
 M. Altarawneh, M.H. Almatarneh, A. Marashdeh, B.Z. Dlugogorski
 "Decomposition of ethylamine through bimolecular reactions"
-Combust. Flame 163 (2016) 532–539
+Combust. Flame 163 (2016) 532x539
 doi: 10.1016/j.combustflame.2015.10.032
 
 Kinetic data for reactions marked as "SL" (NCC + OH) were adopted from the literature:

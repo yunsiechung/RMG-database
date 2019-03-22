@@ -3858,7 +3858,7 @@ entry(
     longDesc = 
 u"""
 VRC-TST, the CCSD(T)/CBS limit for the quartet state interaction energy is obtained from CCSD(T)-F12/VDZ-F12, MP2-F12/VDZ-F12 and MP2-F12/VTZ-F12
-E = E(CCSD(T)−F12/VDZ−F12) + E(MP2−F12/VTZ−F12) − E(MP2−F12/VDZ−F12)
+E = E(CCSD(T)xF12/VDZxF12) + E(MP2xF12/VTZxF12) x E(MP2xF12/VDZxF12)
 """,
 )
 
@@ -3885,7 +3885,7 @@ entry(
     longDesc = 
 u"""
 VRC-TST, the CCSD(T)/CBS limit for the quartet state interaction energy is obtained from CCSD(T)-F12/VDZ-F12, MP2-F12/VDZ-F12 and MP2-F12/VTZ-F12
-E = E(CCSD(T)−F12/VDZ−F12) + E(MP2−F12/VTZ−F12) − E(MP2−F12/VDZ−F12)
+E = E(CCSD(T)xF12/VDZxF12) + E(MP2xF12/VTZxF12) x E(MP2xF12/VDZxF12)
 """,
 )
 
@@ -3912,7 +3912,7 @@ entry(
     longDesc = 
 u"""
 VRC-TST, the CCSD(T)/CBS limit for the quartet state interaction energy is obtained from CCSD(T)-F12/VDZ-F12, MP2-F12/VDZ-F12 and MP2-F12/VTZ-F12
-E = E(CCSD(T)−F12/VDZ−F12) + E(MP2−F12/VTZ−F12) − E(MP2−F12/VDZ−F12)
+E = E(CCSD(T)xF12/VDZxF12) + E(MP2xF12/VTZxF12) x E(MP2xF12/VDZxF12)
 """,
 )
 
@@ -3939,7 +3939,7 @@ entry(
     longDesc = 
 u"""
 VRC-TST, the CCSD(T)/CBS limit for the quartet state interaction energy is obtained from CCSD(T)-F12/VDZ-F12, MP2-F12/VDZ-F12 and MP2-F12/VTZ-F12
-E = E(CCSD(T)−F12/VDZ−F12) + E(MP2−F12/VTZ−F12) − E(MP2−F12/VDZ−F12)
+E = E(CCSD(T)xF12/VDZxF12) + E(MP2xF12/VTZxF12) x E(MP2xF12/VDZxF12)
 """,
 )
 
