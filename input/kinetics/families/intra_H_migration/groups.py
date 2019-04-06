@@ -6425,3 +6425,569 @@ u"""
 """,
 )
 
+forbidden(
+    label = "cineole_R2OO_1",
+    group =
+"""
+1    C u0  (2,S) (6,S)
+2  C u0  (1,S) (3,S) (10,S)
+3    C u0  (2,S) (4,S) (8,S)
+4    C u0  (3,S) (5,S) (12,S) (13,S)
+5    O u0  (4,S) (6,S)
+6    C u0  (1,S) (5,S) (7,S) (9,S)
+7    C u0  (6,S) (8,S)
+8    C u0  (3,S) (7,S)
+9 *2    C u0  (6,S) (14,S)
+10   O u0  (2,S) (11,S)
+11 *1  O u1  (10,S)
+12 C u0 (4,S)
+13 C u0 (4,S)
+14 *3  H u0 (9,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R2OO_2",
+    group =
+"""
+1    C u0  (2,S) (6,S)
+2  C u0  (1,S) (3,S) (10,S)
+3    C u0  (2,S) (4,S) (8,S)
+4    C u0  (3,S) (5,S) (12,S) (13,S)
+5    O u0  (4,S) (6,S)
+6    C u0  (1,S) (5,S) (7,S) (9,S)
+7    C u0  (6,S) (8,S)
+8 *2    C u0  (3,S) (7,S) (14,S)
+9    C u0  (6,S)
+10   O u0  (2,S) (11,S)
+11 *1  O u1  (10,S)
+12 C u0 (4,S)
+13 C u0 (4,S)
+14 *3  H u0 (8,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R2OO_3",
+    group =
+"""
+1    C u0  (2,S) (6,S)
+2  C u0  (1,S) (3,S) (10,S)
+3    C u0  (2,S) (4,S) (8,S)
+4    C u0  (3,S) (5,S) (12,S) (13,S)
+5    O u0  (4,S) (6,S)
+6    C u0  (1,S) (5,S) (7,S) (9,S)
+7 *2    C u0  (6,S) (8,S) (14,S)
+8   C u0  (3,S) (7,S)
+9    C u0  (6,S)
+10   O u0  (2,S) (11,S)
+11 *1  O u1  (10,S)
+12 C u0 (4,S)
+13 C u0 (4,S)
+14 *3  H u0 (7,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R2OO_4",
+    group =
+"""
+1    C u0  (2,S) (6,S)
+2 *2  C u0  (1,S) (3,S) (10,S) (14,S)
+3    C u0  (2,S) (4,S) (8,S)
+4    C u0  (3,S) (5,S) (12,S) (13,S)
+5    O u0  (4,S) (6,S)
+6    C u0  (1,S) (5,S) (7,S) (9,S)
+7    C u0  (6,S) (8,S)
+8   C u0  (3,S) (7,S)
+9    C u0  (6,S)
+10   O u0  (2,S) (11,S)
+11 *1  O u1  (10,S)
+12 C u0 (4,S)
+13 C u0 (4,S)
+14 *3  H u0 (2,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R3OO_1",
+    group =
+"""
+1 C u0 (2,S) (6,S) (7,S)
+2 C u0 (1,S) (3,S)
+3 C u0 (2,S) (4,S)
+4 C u0 (3,S) (5,S) (8,S) (9,S)
+5 O u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (10,S) (11,S)
+7 C u0 (1,S) (8,S)
+8 C u0 (4,S) (7,S)
+9 C u0 (4,S)
+10 C u0 (6,S)
+11 *2 C u0 (6,S) (12,S) (14,S)
+12 O u0 (11,S) (13,S)
+13 *1 O u1 (12,S)
+14 *3 H u0 (11,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R3OO_2",
+    group =
+"""
+1 C u0 (2,S) (6,S) (7,S)
+2 C u0 (1,S) (3,S)
+3 *2 C u0 (2,S) (4,S) (14,S)
+4 C u0 (3,S) (5,S) (8,S) (9,S)
+5 O u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (10,S) (11,S)
+7 C u0 (1,S) (8,S)
+8 C u0 (4,S) (7,S)
+9 C u0 (4,S)
+10 C u0 (6,S)
+11 C u0 (6,S) (12,S)
+12 O u0 (11,S) (13,S)
+13 *1 O u1 (12,S)
+14 *3 H u0 (3,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R3OO_3",
+    group =
+"""
+1 C u0 (2,S) (6,S) (7,S)
+2 C u0 (1,S) (3,S)
+3 C u0 (2,S) (4,S)
+4 C u0 (3,S) (5,S) (8,S) (9,S)
+5 O u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (10,S) (11,S)
+7 C u0 (1,S) (8,S)
+8 C u0 (4,S) (7,S)
+9 *2 C u0 (4,S) (14,S)
+10 C u0 (6,S)
+11 C u0 (6,S) (12,S)
+12 O u0 (11,S) (13,S)
+13 *1 O u1 (12,S)
+14 *3 H u0 (9,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1OO_1",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 *2 C u0 (2,S) (4,S) (8,S) (14,S)
+4 C u0 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S) (12,S)
+12 O u0 (11,S) (13,S)
+13 *1 O u1 (12,S)
+14 *3 H u0 (3,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1OO_2",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 *2 C u0 (6,S) (12,S) (14,S)
+12 O u0 (11,S) (13,S)
+13 *1 O u1 (12,S)
+14 *3 H u0 (11,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1OO_3",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 *2 C u0 (3,S) (7,S) (14,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S) (12,S)
+12 O u0 (11,S) (13,S)
+13 *1 O u1 (12,S)
+14 *3 H u0 (8,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1_R2",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 *2 C u0 (3,S) (5,S) (12,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 *1 C u1 (6,S)
+12 *3 H u0 (4,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1_R3",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 *2 C u0 (2,S) (12,S)
+10 C u0 (2,S)
+11 *1 C u1 (6,S)
+12 *3 H u0 (9,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1_R4",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 *2 C u0 (4,S) (6,S) (12,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 *1 C u1 (6,S)
+12 *3 H u0 (5,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1_R5",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 *2 C u0 (2,S) (4,S) (8,S) (12,S)
+4 C u0 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 *1 C u1 (6,S)
+12 *3 H u0 (3,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R3_R5",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 *2 C u0 (2,S) (4,S) (8,S) (12,S)
+4 C u0 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 *1 C u1 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (3,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R4_R5",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 *2 C u0 (2,S) (4,S) (8,S) (12,S)
+4 C u0 (3,S) (5,S)
+5 *1 C u1 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (3,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1cyc5_1",
+    group =
+"""
+1 C u0 (2,S) (5,S) (6,S)
+2 C u0 (1,S) (3,S)
+3 C u0 (2,S) (4,S)
+4 C u0 (3,S) (5,D) (7,S)
+5 C u0 (1,S) (4,D)
+6 *1 C u1 (1,S)
+7 *2 C u0 (4,S) (8,S)
+8 *3 H u0 (7,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+#/////////////////////////////////////////////////////////////////////
+forbidden(
+    label = "cineole_R2_R3",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 *1 C u1 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 *2 C u0 (2,S) (12,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (9,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R2_R4",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 *1 C u1 (3,S) (5,S)
+5 *2 C u0 (4,S) (6,S) (12,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (5,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R2_R4_2",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 *2 C u0 (4,S) (6,S) (12,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 *1 C u1 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (5,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R2_R5",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 *2  C u0 (2,S) (4,S) (8,S) (12,S)
+4 *1 C u1 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 C u0 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (3,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R3_R4",
+    group =
+"""
+1 O u0 (2,S) (6,S)
+2 C u0 (1,S) (3,S) (9,S) (10,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 *2 C u0 (4,S) (6,S) (12,S)
+6 C u0 (1,S) (5,S) (7,S) (11,S)
+7 C u0 (6,S) (8,S)
+8 C u0 (3,S) (7,S)
+9 *1 C u1 (2,S)
+10 C u0 (2,S)
+11 C u0 (6,S)
+12 *3 H u0 (5,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R1cyc6_1",
+    group =
+"""
+1 *1 O u1 (2,S)
+2 O u0 (1,S) (3,S)
+3 C u0 (2,S) (4,S) (8,S)
+4 C u0 (3,S) (5,S)
+5 C u0 (4,S) (6,S)
+6 C u0 (5,S) (7,D) (9,S)
+7 C u0 (6,D) (8,S)
+8 C u0 (3,S) (7,S)
+9 *2 C u0 (6,S) (10,S)
+10 *3 H u0 (9,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
+
+forbidden(
+    label = "cineole_R4cyc6O4",
+    group =
+"""
+1 *1 O u1 (2,S)
+2 O u0 (1,S) (3,S)
+3 C u0 (2,S) (4,S) (11,S)
+4 C u0 (3,S) (5,S) (9,S) (10,S)
+5 O u0 (4,S) (6,S)
+6 O u0 (5,S) (7,S)
+7 *2 C u0 (6,S) (8,S) (11,S) (12,S)
+8 C u0 (7,S) (9,S)
+9 C u0 (4,S) (8,S)
+10 C u0 (4,S)
+11 C u0 (3,S) (7,S)
+12 *3 H u0 (7,S)
+""",
+    shortDesc = u"""""",
+    longDesc =
+u"""
+""",
+)
