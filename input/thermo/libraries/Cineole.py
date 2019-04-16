@@ -669,3 +669,96 @@ u"""
 """,
 )
 
+entry(
+    index = 15,
+    label = "R2O",
+    molecule =
+"""
+1  C u0 p0 c0 {2,S} {6,S} {8,S} {11,S}
+2  O u0 p2 c0 {1,S} {3,S}
+3  C u0 p0 c0 {2,S} {4,S} {9,S} {10,S}
+4  C u0 p0 c0 {3,S} {5,S} {7,S} {13,S}
+5  C u0 p0 c0 {4,S} {6,S} {14,S} {15,S}
+6  C u0 p0 c0 {1,S} {5,S} {16,S} {17,S}
+7  C u0 p0 c0 {4,S} {8,S} {12,S} {18,S}
+8  C u0 p0 c0 {1,S} {7,S} {19,S} {20,S}
+9  C u0 p0 c0 {3,S} {12,S} {21,S} {22,S}
+10 C u0 p0 c0 {3,S} {23,S} {24,S} {25,S}
+11 C u0 p0 c0 {1,S} {26,S} {27,S} {28,S}
+12 O u0 p2 c0 {7,S} {9,S}
+13 H u0 p0 c0 {4,S}
+14 H u0 p0 c0 {5,S}
+15 H u0 p0 c0 {5,S}
+16 H u0 p0 c0 {6,S}
+17 H u0 p0 c0 {6,S}
+18 H u0 p0 c0 {7,S}
+19 H u0 p0 c0 {8,S}
+20 H u0 p0 c0 {8,S}
+21 H u0 p0 c0 {9,S}
+22 H u0 p0 c0 {9,S}
+23 H u0 p0 c0 {10,S}
+24 H u0 p0 c0 {10,S}
+25 H u0 p0 c0 {10,S}
+26 H u0 p0 c0 {11,S}
+27 H u0 p0 c0 {11,S}
+28 H u0 p0 c0 {11,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([46.133,61.681,75.218,86.867,105.335,118.626,137.390],'cal/(mol*K)'),
+        H298 = (-75.722,'kcal/mol'),
+        S298 = (96.142,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""BMK/6-311G calculation by Oscar Wu""",
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 16,
+    label = "R3O",
+    molecule =
+"""
+1 O u0 p2 c0 {3,S} {4,S}
+2 O u0 p2 c0 {6,S} {10,S}
+3 C u0 p0 c0 {1,S} {5,S} {10,S} {11,S}
+4 C u0 p0 c0 {1,S} {6,S} {7,S} {12,S}
+5 C u0 p0 c0 {3,S} {8,S} {9,S} {13,S}
+6 C u0 p0 c0 {2,S} {4,S} {8,S} {14,S}
+7 C u0 p0 c0 {4,S} {9,S} {15,S} {16,S}
+8 C u0 p0 c0 {5,S} {6,S} {19,S} {20,S}
+9 C u0 p0 c0 {5,S} {7,S} {17,S} {18,S}
+10 C u0 p0 c0 {2,S} {3,S} {21,S} {22,S}
+11 C u0 p0 c0 {3,S} {23,S} {24,S} {25,S}
+12 C u0 p0 c0 {4,S} {26,S} {27,S} {28,S}
+13 H u0 p0 c0 {5,S}
+14 H u0 p0 c0 {6,S}
+15 H u0 p0 c0 {7,S}
+16 H u0 p0 c0 {7,S}
+17 H u0 p0 c0 {9,S}
+18 H u0 p0 c0 {9,S}
+19 H u0 p0 c0 {8,S}
+20 H u0 p0 c0 {8,S}
+21 H u0 p0 c0 {10,S}
+22 H u0 p0 c0 {10,S}
+23 H u0 p0 c0 {11,S}
+24 H u0 p0 c0 {11,S}
+25 H u0 p0 c0 {11,S}
+26 H u0 p0 c0 {12,S}
+27 H u0 p0 c0 {12,S}
+28 H u0 p0 c0 {12,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([45.392,61.131,74.897,86.709,105.353,118.680,137.326],'cal/(mol*K)'),
+        H298 = (-71.284,'kcal/mol'),
+        S298 = (93.201,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""BMK/6-311G calculation by Oscar Wu""",
+    longDesc =
+u"""
+
+""",
+)
