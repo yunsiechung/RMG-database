@@ -147,8 +147,8 @@ entry(
      kinetics = Arrhenius(A=(6.865e+16, 'cm^3/(mol*s)'), n=-1.627, Ea=(0.199, 'kcal/mol'), T0=(1, 'K')),
     longDesc =
 u"""
-Peroxy chemistry from Miyoshi (2011) rate rules (doi:10.1021/jp112152n)
-O2 + R_pri = ROO_pri 6.865e+16 -1.627 0.199 0.0 0.0 0.0 ! Miyoshi (2011) rate rules
+Peroxy chemistry from Miyoshi (2011) rate-rules (doi:10.1021/jp112152n)
+O2 + R_pri = ROO_pri 6.865e+16 -1.627 0.199 0.0 0.0 0.0 ! Miyoshi (2011) rate-rules
 (doi:10.1021/jp112152n)
 """,
 )
@@ -171,8 +171,8 @@ entry(
     kinetics = Arrhenius(A=(3.487e+14, 'cm^3/(mol*s)'), n=-0.816, Ea=(-0.536, 'kcal/mol'), T0=(1, 'K')),
     longDesc =
 u"""
-Peroxy chemistry from Miyoshi (2011) rate rules (doi:10.1021/jp112152n)
-O2 + R_sec = ROO_sec 3.487e+14 -0.816 -0.536 0.0 0.0 0.0 ! Miyoshi (2011) rate rules
+Peroxy chemistry from Miyoshi (2011) rate-rules (doi:10.1021/jp112152n)
+O2 + R_sec = ROO_sec 3.487e+14 -0.816 -0.536 0.0 0.0 0.0 ! Miyoshi (2011) rate-rules
 (doi:10.1021/jp112152n)
 """,
 )
@@ -273,8 +273,8 @@ entry(
     kinetics = Arrhenius(A=(3.487e+14, 'cm^3/(mol*s)'), n=-0.816, Ea=(-0.536, 'kcal/mol'), T0=(1, 'K')),
     longDesc =
 u"""
-Peroxy chemistry from Miyoshi (2011) rate rules (doi:10.1021/jp112152n)
-O2 + R_sec = ROO_sec 3.487e+14 -0.816 -0.536 0.0 0.0 0.0 ! Miyoshi (2011) rate rules
+Peroxy chemistry from Miyoshi (2011) rate-rules (doi:10.1021/jp112152n)
+O2 + R_sec = ROO_sec 3.487e+14 -0.816 -0.536 0.0 0.0 0.0 ! Miyoshi (2011) rate-rules
 (doi:10.1021/jp112152n)
 """,
 )
@@ -343,8 +343,8 @@ entry(
     kinetics = Arrhenius(A=(9.756e+11, 'cm^3/(mol*s)'), n=0.325, Ea=(-0.417, 'kcal/mol'), T0=(1, 'K')),
     longDesc =
 u"""
-Peroxy chemistry from Miyoshi (2011) rate rules (doi:10.1021/jp112152n)
-O2 + R_tert = ROO_tert 9.756e+11 0.325 -0.417 0.0 0.0 0.0 ! Miyoshi (2011) rate rules
+Peroxy chemistry from Miyoshi (2011) rate-rules (doi:10.1021/jp112152n)
+O2 + R_tert = ROO_tert 9.756e+11 0.325 -0.417 0.0 0.0 0.0 ! Miyoshi (2011) rate-rules
 (doi:10.1021/jp112152n)
 """,
 )
@@ -576,8 +576,8 @@ entry(
     kinetics = Arrhenius(A=(6.865e+16, 'cm^3/(mol*s)'), n=-1.627, Ea=(0.199, 'kcal/mol'), T0=(1, 'K')),
     longDesc =
 u"""
-Peroxy chemistry from Miyoshi (2011) rate rules (doi:10.1021/jp112152n)
-O2 + R_pri = ROO_pri 6.865e+16 -1.627 0.199 0.0 0.0 0.0 ! Miyoshi (2011) rate rules
+Peroxy chemistry from Miyoshi (2011) rate-rules (doi:10.1021/jp112152n)
+O2 + R_pri = ROO_pri 6.865e+16 -1.627 0.199 0.0 0.0 0.0 ! Miyoshi (2011) rate-rules
 (doi:10.1021/jp112152n)
 """,
 )
@@ -625,8 +625,8 @@ entry(
     kinetics = Arrhenius(A=(3.487e+14, 'cm^3/(mol*s)'), n=-0.816, Ea=(-0.536, 'kcal/mol'), T0=(1, 'K')),
     longDesc =
 u"""
-Peroxy chemistry from Miyoshi (2011) rate rules (doi:10.1021/jp112152n)
-O2 + R_sec = ROO_sec 3.487e+14 -0.816 -0.536 0.0 0.0 0.0 ! Miyoshi (2011) rate rules
+Peroxy chemistry from Miyoshi (2011) rate-rules (doi:10.1021/jp112152n)
+O2 + R_sec = ROO_sec 3.487e+14 -0.816 -0.536 0.0 0.0 0.0 ! Miyoshi (2011) rate-rules
 (doi:10.1021/jp112152n)
 """,
 )
@@ -659,8 +659,8 @@ entry(
     kinetics = Arrhenius(A=(3.487e+14, 'cm^3/(mol*s)'), n=-0.816, Ea=(-0.536, 'kcal/mol'), T0=(1, 'K')),
     longDesc =
 u"""
-Peroxy chemistry from Miyoshi (2011) rate rules (doi:10.1021/jp112152n)
-O2 + R_sec = ROO_sec 3.487e+14 -0.816 -0.536 0.0 0.0 0.0 ! Miyoshi (2011) rate rules
+Peroxy chemistry from Miyoshi (2011) rate-rules (doi:10.1021/jp112152n)
+O2 + R_sec = ROO_sec 3.487e+14 -0.816 -0.536 0.0 0.0 0.0 ! Miyoshi (2011) rate-rules
 (doi:10.1021/jp112152n)
 """,
 )
@@ -869,8 +869,8 @@ entry(
     kinetics = Arrhenius(A=(9.756e+11, 'cm^3/(mol*s)'), n=0.325, Ea=(-0.417, 'kcal/mol'), T0=(1, 'K')),
     longDesc =
 u"""
-Peroxy chemistry from Miyoshi (2011) rate rules (doi:10.1021/jp112152n)
-O2 + R_tert = ROO_tert 9.756e+11 0.325 -0.417 0.0 0.0 0.0 ! Miyoshi (2011) rate rules
+Peroxy chemistry from Miyoshi (2011) rate-rules (doi:10.1021/jp112152n)
+O2 + R_tert = ROO_tert 9.756e+11 0.325 -0.417 0.0 0.0 0.0 ! Miyoshi (2011) rate-rules
 (doi:10.1021/jp112152n)
 """,
 )
