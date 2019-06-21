@@ -833,3 +833,37 @@ u"""
 """,
 )
 
+entry(
+   index = 26,
+   label = "acetone",
+   molecule = "CC(C)=O",
+   solvent = SolventData(
+       s_g = 1.522,
+       b_g = 0,
+       e_g = -0.277,
+       l_g = 0.863,
+       a_g = 3.258,
+       c_g = 0.154,
+       s_h = -17.017,
+       b_h = -4.581,
+       e_h = 4.397,
+       l_h = -7.326,
+       a_h = -36.105,
+       c_h = -4.811,
+       A = 0,
+       B = 0,
+       C = 0,
+       D = 0,
+       E = 0,
+       alpha = 0,
+       beta = 0,
+       eps = 0,
+   ),
+   shortDesc = u""" """,
+   longDesc =
+u"""
+Got the values from:
+https://digital.library.unt.edu/ark:/67531/metadc28373/m2/1/high_res_d/dissertation.pdf
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/jps.21150
+""",
+)
