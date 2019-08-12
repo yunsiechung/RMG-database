@@ -35,7 +35,7 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+This matches with Prof.Abraham's solvent database entry 185 Gas-water/298
 """,
 )
 
@@ -44,12 +44,12 @@ entry(
     label = "1-octanol",
     molecule = "CCCCCCCCO",
     solvent = SolventData(
-        s_g = 0.56,
-        b_g = 0.702,
-        e_g = -0.203,
-        l_g = 0.939,
-        a_g = 3.56,
-        c_g = -0.12,
+        s_g = 0.561,
+        b_g = 0.749,
+        e_g = -0.214,
+        l_g = 0.943,
+        a_g = 3.507,
+        c_g = -0.147,
         s_h = 5.89,
         b_h = -8.99,
         e_h = -1.04,
@@ -70,6 +70,8 @@ entry(
 u"""
 alpha = 0.328, #primary alcohols
 beta = 0.45, #primary alcohols,
+
+Abraham's parameters from Prof.Abraham's solvent dtabase entry 222 d Octan-1-ol
 """,
 )
 
@@ -102,7 +104,7 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+This matches with Prof.Abraham's solvent database entry 189 w/d Benzene
 """,
 )
 
@@ -475,12 +477,12 @@ entry(
     label = "ethanol",
     molecule = "CCO",
     solvent = SolventData(
-        s_g = 0.789,
-        b_g = 1.311,
-        e_g = -0.206,
-        l_g = 0.853,
-        a_g = 3.635,
-        c_g = 0.012,
+        s_g = 0.867,
+        b_g = 1.192,
+        e_g = -0.232,
+        l_g = 0.846,
+        a_g = 3.894,
+        c_g = 0.017,
         s_h = 0.0,
         b_h = -11.899,
         e_h = 0.0,
@@ -499,7 +501,7 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham parameters from Pro.Abraham's solvent database entry 216 d Ethanol
 """,
 )
 
@@ -565,7 +567,7 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+This matches with the Prof.Abraham's solvent database entry 177 w/d hexadecane values
 """,
 )
 
