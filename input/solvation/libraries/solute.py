@@ -2845,14 +2845,14 @@ entry(
         S = 0.0,
         B = 0.0,
         E = 0.0,
-        L = 0.0,
+        L = -0.211,
         A = 0.0,
-        V = 6.75,
+        V = 0.246,
     ),
     shortDesc = u"""""",
     longDesc = 
 u"""
-Dummy values set to solve issue #285 on RMGPY
+This is actually Kr
 """,
 )
 
@@ -2896,5 +2896,43 @@ u"""
 Michael H. Abraham,a Andreas M. Zissimos, a and William E. Acree, Jr.
 Phys. Chem. Chem. Phys., 2001,3, 3732-3736
 DOI: 10.1039/B104682A 
+""",
+)
+
+entry(
+    index = 153,
+    label = "CO2",
+    molecule = 'O=C=O',
+    solute = SoluteData(
+        S = 0.28,
+        B = 0.1,
+        E = 0.00,
+        L = 0.058,
+        A = 0.05,
+        V = 0.2809
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Prof.Abraham's database
+""",
+)
+
+entry(
+    index = 154,
+    label = "H2",
+    molecule = '[H][H]',
+    solute = SoluteData(
+        S = 0.0,
+        B = 0.0,
+        E = 0.00,
+        L = -1.2,
+        A = 0.0,
+        V = 0.1086
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Prof.Abraham's database
 """,
 )
