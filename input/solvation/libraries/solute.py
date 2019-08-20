@@ -2936,3 +2936,42 @@ u"""
 Prof.Abraham's database
 """,
 )
+
+entry(
+    index = 155,
+    label = "Carbon Monoxide",
+    molecule = '[C-]#[O+]',
+    solute = SoluteData(
+        S = 0.0,
+        B = 0.04,
+        E = 0.00,
+        L = -0.836,
+        A = 0.0,
+        V = 0.222
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Prof.Abraham's database
+""",
+)
+
+entry(
+    index = 156,
+    label = "Ammonia",
+    molecule = 'N',
+    solute = SoluteData(
+        S = 0.39,
+        B = 0.56,
+        E = 0.139,
+        L = 0.319,
+        A = 0.16,
+        V = 0.2084
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Prof.Abraham's database
+""",
+)
+

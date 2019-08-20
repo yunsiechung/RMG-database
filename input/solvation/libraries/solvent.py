@@ -605,7 +605,7 @@ u"""
 entry(
     index = 19,
     label = "isooctane",
-    molecule = "CC(C)CC(C)(C)C",
+    molecule = "CCCCCC(C)C",
     solvent = SolventData(
         s_g = 0,
         b_g = 0,
