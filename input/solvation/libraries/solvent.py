@@ -35,7 +35,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -68,6 +70,10 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
+
 alpha = 0.328, #primary alcohols
 beta = 0.45, #primary alcohols,
 """,
@@ -102,7 +108,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -135,7 +143,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -168,7 +178,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -201,7 +213,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -234,7 +248,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -267,6 +283,10 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
+
 beta = 0.05, # Note 24 in Snelgrove et al. 2001
 """,
 )
@@ -300,7 +320,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -333,7 +355,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -366,7 +390,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -399,7 +425,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -432,6 +460,10 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
+
 Molecule Search on RMG website cannot draw molecule and says "Invalid adjacency list" although it can give the
 adjacency list with the solvent name or its correct SMILES representation
 """,
@@ -466,7 +498,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -499,7 +533,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -532,7 +568,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -565,7 +603,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -598,7 +638,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -631,7 +673,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -664,7 +708,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -697,7 +743,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -730,6 +778,10 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
+
 eps = 2.2 # aerage of range 2.0-2.4
 """,
 )
@@ -763,7 +815,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -796,7 +850,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
@@ -829,7 +885,9 @@ entry(
     shortDesc = u""" """,
     longDesc =
 u"""
-
+Abraham solvent parameters (s_g, b_g, e_g, l_g, a_g, c_g) are from:
+Jalan, Amrit. (2014). Predictive kinetic modeling of low-temperature hydrocarbon oxidation (Doctoral dissertation).
+Cambridge, MA: Massachusetts Institute of Technology.
 """,
 )
 
