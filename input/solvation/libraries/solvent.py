@@ -835,3 +835,466 @@ u"""
 """,
 )
 
+entry(
+   index = 26,
+   label = "Acetone",
+   molecule = "CC(C)=O",
+   solvent = SolventData(
+       s_g = 1.522,
+       b_g = 0,
+       e_g = -0.277,
+       l_g = 0.863,
+       a_g = 3.258,
+       c_g = 0.154,
+       s_h = -17.017,
+       b_h = -4.581,
+       e_h = 4.397,
+       l_h = -7.326,
+       a_h = -36.105,
+       c_h = -4.811,
+       A = 0,
+       B = 0,
+       C = 0,
+       D = 0,
+       E = 0,
+       alpha = 0,
+       beta = 0,
+       eps = 0,
+   ),
+   shortDesc = u""" """,
+   longDesc =
+u"""
+Got the values from:
+https://digital.library.unt.edu/ark:/67531/metadc28373/m2/1/high_res_d/dissertation.pdf
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/jps.21150
+""",
+)
+
+entry(
+    index = 27,
+    label = "carbondisulfide",
+    molecule = "S=C=S",
+    solvent = SolventData(
+        s_g = 0.177,
+        b_g = 0.095,
+        e_g = 0.251,
+        l_g = 1.068,
+        a_g = 0.027,
+        c_g = 0.101,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 28,
+    label = "chlorobenzene",
+    molecule = "ClC1=CC=CC=C1",
+    solvent = SolventData(
+        s_g = 1.254,
+        b_g = 0.0,
+        e_g = -0.553,
+        l_g = 1.041,
+        a_g = 0.364,
+        c_g = 0.053,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 29,
+    label = "decanol",
+    molecule = "CCCCCCCCCCO",
+    solvent = SolventData(
+        s_g = 0.325,
+        b_g = 0.767,
+        e_g = -0.068,
+        l_g = 0.947,
+        a_g = 0.364,
+        c_g = -0.136,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 30,
+    label = "diethylether",
+    molecule = "CCOCC",
+    solvent = SolventData(
+        s_g = 0.775,
+        b_g = 0.0,
+        e_g = -0.347,
+        l_g = 0.973,
+        a_g = 2.985,
+        c_g = 0.288,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 31,
+    label = "heptanol",
+    molecule = "CCCCCCCO",
+    solvent = SolventData(
+        s_g = 0.429,
+        b_g = 1.181,
+        e_g = -0.168,
+        l_g = 0.927,
+        a_g = 3.541,
+        c_g = -0.062,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 32,
+    label = "hexanol",
+    molecule = "CCCCCCO",
+    solvent = SolventData(
+        s_g = 0.626,
+        b_g = 0.729,
+        e_g = -0.298,
+        l_g = 0.936,
+        a_g = 3.726,
+        c_g = -0.035,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 33,
+    label = "isopropanol",
+    molecule = "CC(C)O",
+    solvent = SolventData(
+        s_g = 0.702,
+        b_g = 1.04,
+        e_g = -0.335,
+        l_g = 0.893,
+        a_g = 4.017,
+        c_g = -0.06,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 34,
+    label = "pentanol",
+    molecule = "CCCCCO",
+    solvent = SolventData(
+        s_g = 0.526,
+        b_g = 0.983,
+        e_g = -0.277,
+        l_g = 0.932,
+        a_g = 3.779,
+        c_g = -0.042,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 35,
+    label = "propanol",
+    molecule = "CCCO",
+    solvent = SolventData(
+        s_g = 0.648,
+        b_g = 1.043,
+        e_g = -0.185,
+        l_g = 0.869,
+        a_g = 4.022,
+        c_g = -0.028,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 36,
+    label = "sec-butanol",
+    molecule = "CCC(C)O",
+    solvent = SolventData(
+        s_g = 0.325,
+        b_g = 0.767,
+        e_g = -0.038,
+        l_g = 0.947,
+        a_g = 3.674,
+        c_g = -0.136,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 37,
+    label = "tetrahydrofuran",
+    molecule = "C1CCOC1",
+    solvent = SolventData(
+        s_g = 1.238,
+        b_g = 0.0,
+        e_g = -0.347,
+        l_g = 0.982,
+        a_g = 3.289,
+        c_g = 0.189,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 38,
+    label = "nitrobenzene",
+    molecule = "[O-][N+](=O)c1ccccc1",
+    solvent = SolventData(
+        s_g = 1.682,
+        b_g = 0.37,
+        e_g = 0.121,
+        l_g = 0.915,
+        a_g = 1.247,
+        c_g = -0.295,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
+
+entry(
+    index = 39,
+    label = "diisopropylether",
+    molecule = "CC(C)OC(C)C",
+    solvent = SolventData(
+        s_g = 0.685,
+        b_g = 0.0,
+        e_g = -0.032,
+        l_g = 0.94,
+        a_g = 3.108,
+        c_g = 0.114,
+        s_h = 0,
+        b_h = 0.0,
+        e_h = 0,
+        l_h = 0,
+        a_h = 0,
+        c_h = 0,
+        A = 0,
+        B = -0,
+        C = 0,
+        D = 0,
+        E = 0,
+        alpha = 0,
+        beta = 0,
+        eps = 0,
+    ),
+    shortDesc = u""" """,
+    longDesc =
+u"""
+
+""",
+)
