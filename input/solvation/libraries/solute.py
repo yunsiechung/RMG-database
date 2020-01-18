@@ -2975,3 +2975,63 @@ Prof.Abraham's database
 """,
 )
 
+entry(
+    index = 157,
+    label = "Formic Acid",
+    molecule = 'O=CO',
+    solute = SoluteData(
+        S = 0.75,
+        B = 0.33,
+        E = 0.343,
+        L = 1.545,
+        A = 0.76,
+        V = 0.0
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Prof.Abraham's database
+V is the random number
+""",
+)
+
+entry(
+    index = 158,
+    label = "Benzene",
+    molecule = 'c1ccccc1',
+    solute = SoluteData(
+        S = 0.52,
+        B = 0.14,
+        E = 0.61,
+        L = 2.786,
+        A = 0.0,
+        V = 0.0
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Prof.Abraham's database
+V is the random number
+""",
+)
+
+entry(
+    index = 159,
+    label = "Sulfur dioxide",
+    molecule = 'O=S=O',
+    solute = SoluteData(
+        S = 0.66,
+        B = 0.1,
+        E = 0.61,
+        L = 0.778,
+        A = 0.28,
+        V = 0.0
+    ),
+    shortDesc = u"""""",
+    longDesc =
+u"""
+Prof.Abraham's database
+V is the random number
+""",
+)
+
